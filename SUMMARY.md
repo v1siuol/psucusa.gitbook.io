@@ -26,17 +26,9 @@
   * [Untitled](xue-shu-gong-lve-pian/untitled-1.md)
 * [校内娱乐篇](xiao-nei-yu-le-pian/README.md)
   * [Untitled](xiao-nei-yu-le-pian/untitled-2.md)
-
-## test1
-
-* [校外娱乐篇](test1/xiao-wai-yu-le-pian/README.md)
-  * [Untitled](test1/xiao-wai-yu-le-pian/untitled-1.md)
-  * [Untitled](test1/xiao-wai-yu-le-pian/untitled.md)
-* [Untitled](test1/untitled.md)
-
-## test2
-
-* [结尾篇](test2/jie-wei-pian/README.md)
-  * [Untitled](test2/jie-wei-pian/untitled-1.md)
-* [Untitled](test2/untitled.md)
+* [校外娱乐篇](xiao-wai-yu-le-pian/README.md)
+  * [Untitled](xiao-wai-yu-le-pian/untitled-1.md)
+  * [Untitled](xiao-wai-yu-le-pian/untitled.md)
+* [结尾篇](jie-wei-pian/README.md)
+  * [Untitled](jie-wei-pian/untitled-1.md)
 

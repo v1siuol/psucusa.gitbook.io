@@ -1,9 +1,9 @@
 {
     "gitbook": "3.x.x",
-    "plugins": [],
+    "plugins": [
+        "summary"
+    ],
     "pluginsConfig": {
-         "theme-default": {
-              "showLevel": true
          }
     }
 }

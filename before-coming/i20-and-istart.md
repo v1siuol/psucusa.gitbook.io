@@ -4,10 +4,10 @@
 | Image | Text |
 | :--- | :--- |
 
-![EP &#x5408;&#x7167;][image]  **1.adsdsadsadasad**
+![EP &#x5408;&#x7167;](../.gitbook/assets/1-about-cusa/recuritment-info/ep.jpg)
+**1.adsdsadsadasad**
 
 
-[image]: (../.gitbook/assets/1-about-cusa/recuritment-info/ep.jpg)
 
 
 

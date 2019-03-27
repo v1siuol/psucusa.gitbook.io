@@ -14,5 +14,3 @@
 
 **4月8日 State College**
 
-## 
-

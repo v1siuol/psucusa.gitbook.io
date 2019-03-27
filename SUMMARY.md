@@ -17,7 +17,7 @@
     * [媒体部（Media）](about-cusa/recruitment-info/media.md)
     * [校内事务部（UA）](about-cusa/recruitment-info/ua.md)
 * [临行准备篇](before-coming/README.md)
-  * [i20 & istart](before-coming/untitled.md)
+  * [i20 & istart](before-coming/i20-and-istart.md)
   * [Untitled](before-coming/untitled-1.md)
   * [Untitled](before-coming/untitled-2.md)
 * [生活指南篇](daily-guide/README.md)

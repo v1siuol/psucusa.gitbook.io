@@ -18,7 +18,11 @@ iStart 信息概要
 
 {% tabs %}
 {% tab title="a-d.   " %}
-刚刚录取的小朋友要经常光顾这里了，ISO期间要完成Mandatory Summer Document Check-In，提交你的所有信息。要注意因为要填I-94表，所以暑假期间是无法完成这一板块的。千万不要忘记，到了学校之后要尽快填好哦！ \*备注：要注意New Student Clearance Request板块是提供给非F-1和J-1人士的哦！不要手贱乱填了！
+刚刚录取的小朋友要经常光顾这里了，ISO期间要完成Mandatory Summer Document Check-In
+提交你的所有信息。要注意因为要填I-94表，所以暑假期间是无法完成这一板块的。
+千万不要忘记，到了学校之后要尽快填好哦！ 
+
+\*备注：要注意New Student Clearance Request板块是提供给非F-1和J-1人士的哦！不要手贱乱填了！
 {% endtab %}
 
 {% tab title="f.      " %}

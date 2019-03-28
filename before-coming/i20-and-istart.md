@@ -6,7 +6,7 @@
 
 
 
-[image]: ../.gitbook/assets/ep.jpg
+[image]: ../.gitbook/assets/i20.png
 
 {% tabs %}{% tab title="First Tab" %}**NOOOO**{% endtab %}{% endtabs %}
 

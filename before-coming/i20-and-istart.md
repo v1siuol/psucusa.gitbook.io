@@ -1,17 +1,14 @@
 # i20 & istart
 
-<p><img src="../.gitbook/assets/ep.jpg" float="left">
-  1. this is a test
-  2. well try this
-  sdasdadad
-  dsadasafsssdsada
-  sadsadsadadadsda
-  dsadadadsad
-  dadadad
-  sd
-  sadas
-  dsadasda
-</p>
-**Just to make sure**
+![](../.gitbook/assets/ep.jpg) 1. this is a test 2. well try this sdasdadad dsadasafsssdsada sadsadsadadadsda dsadadadsad dadadad sd sadas dsadasda **Just to make sure**
 
+{% tabs %}
+{% tab title="First Tab" %}
+**NOOOO**
+{% endtab %}
+
+{% tab title="Second Tab" %}
+hahahaahhaha
+{% endtab %}
+{% endtabs %}
 

@@ -2,8 +2,7 @@
 
 | Image | Text |
 |:------|:------|
-|![](../.gitbook/assets/ep.jpg)| **asdasasasasdadsadsaad<br>
-saddsadadadadadadaass<br>sdsada<br>sddsdsadadsadadadadadas** |
+|![](../.gitbook/assets/ep.jpg)| **asdasasasasdadsadsaad<br>saddsadadadadadadaass<br>sdsada<br>sddsdsadadsadadadadadas** |
 
 
 

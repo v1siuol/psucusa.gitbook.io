@@ -1,4 +1,4 @@
-# i20 & istart
+# 临行准备篇
 
 ## i20 & iStart
 
@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](../.gitbook/assets/i20.png)
+![](.gitbook/assets/i20.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}
@@ -30,7 +30,7 @@ iStart 信息概要
 {% endtab %}
 
 {% tab title="f.      " %}
-**I-20 or DS-2019 Requests:**  这里面的申请是基于你已经有I-20或DS-2019之后进行的。
+**I-20 or DS-2019 Requests:** 这里面的申请是基于你已经有I-20或DS-2019之后进行的。
 
 比如，你需要换专业、换校区、延长I-20有效期、从硕士升到博士，或者你的配偶和小孩想来陪读……
 
@@ -40,7 +40,7 @@ iStart 信息概要
 {% endtab %}
 
 {% tab title="g.      " %}
-**Reduced Course Load Requests:**  Part-time学生的申请。
+**Reduced Course Load Requests:** Part-time学生的申请。
 
 每个持学生签证的学生，都需要在正常的秋季学期或春季学期内修满一定数量的学分 （本科生12分、研究生9分、法学院学生12分、医学院学生10分）。
 
@@ -48,7 +48,7 @@ iStart 信息概要
 {% endtab %}
 
 {% tab title="h.     " %}
-**Employment Authorization Requests:**  这里面就是CPT和OPT的申请啦， 简单的来说就是你以在读学生或应届毕业生身份在美国实习的许可证。
+**Employment Authorization Requests:** 这里面就是CPT和OPT的申请啦， 简单的来说就是你以在读学生或应届毕业生身份在美国实习的许可证。
 
 当然这是要等你拿到实习offer之后才能申请的哦！
 
@@ -56,7 +56,7 @@ iStart 信息概要
 {% endtab %}
 
 {% tab title="i.      " %}
-**Letter Requests:**  各种相关文件的申请， 比如：在美国的其他学校读summer，需要申请 “Non- Penn State Summer Classes”的文件； 想在学校打工，需要申请 “Social Security Number”（也就是传说中的社保号，或者SSN）的文件，等。
+**Letter Requests:** 各种相关文件的申请， 比如：在美国的其他学校读summer，需要申请 “Non- Penn State Summer Classes”的文件； 想在学校打工，需要申请 “Social Security Number”（也就是传说中的社保号，或者SSN）的文件，等。
 
 \*备注：读IECP语言项目的朋友们如果想申请SSN的话，应该填写 “Social Security \(IECP\)”表格 而不是这里面的 “Social Security”表格哦！
 {% endtab %}

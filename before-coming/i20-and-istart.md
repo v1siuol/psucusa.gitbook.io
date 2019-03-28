@@ -7,9 +7,7 @@
 | :--- |
 {% endhint %}
 
-| Image | Text |
-| :--- | :---: |
-| ![](../.gitbook/assets/i20.png) |  |
+![](../.gitbook/assets/i20.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}

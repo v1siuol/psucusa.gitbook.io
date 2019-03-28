@@ -6,9 +6,5 @@
 {% tab title="First Tab" %}
 **NOOOO**
 {% endtab %}
-
-{% tab title="Second Tab" %}
-hahahaahhaha
-{% endtab %}
 {% endtabs %}
 

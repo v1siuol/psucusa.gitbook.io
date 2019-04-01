@@ -37,14 +37,14 @@
 
 * **办公地点**
   * **Address:**<br>
-&emsp;&emsp;108 East Beaver Avenue, State College, PA 16801-4921<br>
-&emsp;&emsp;(below the Centre Region Schlow Library)
+    * <pr>108 East Beaver Avenue, State College, PA 16801-4921<br>
+ (below the Centre Region Schlow Library)<pr/>
 
   * **Phone:**<br>
-&emsp;&emsp;(814)-238-2282
+    * <pr>(814)-238-2282<pr/>
 
   * **Office hour:**<br>
-&emsp;&emsp;Monday – Friday: 7:30a.m. – 5:30 p.m.<br>
-&emsp;&emsp;Saturday: 9:30 a.m. – 1:00 p.m.<br>
-&emsp;&emsp;Sunday: Closed
+    * <pr>Monday – Friday: 7:30a.m. – 5:30 p.m.<br>
+Saturday: 9:30 a.m. – 1:00 p.m.<br>
+Sunday: Closed<pr/>
 

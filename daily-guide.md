@@ -16,22 +16,31 @@
 
 * **公交线路**
 
-  * **Centre Line**
-      就是大体上围绕着整个Penn State 大学校园及城市的各种公交线路，常见的线路有（N, NV, W, V, NE, WE, VE, HP, B, M等）。
+  * **Centre Line**<br>
+&emsp;&emsp;就是大体上围绕着整个Penn State 大学校园及城市的各种公交线路。<br>
+&emsp;&emsp;常见的线路有（N, NV, W, V, NE, WE, VE, HP, B, M等）。
       
-  * **Loop/Link**
-      Loop 包括blue loop 和white loop 是两条围绕校园且方向相反的环线。Link 包括 green link 和 redlink, 是围绕校园以及downtown周边的一条线路。重要的是,小编要强调下这些线路都是免费的！ok！免费！free!<br><br>
+  * **Loop/Link**<br>
+&emsp;&emsp;Loop 包括blue loop 和white loop 是两条围绕校园且方向相反的环线。<br>
+&emsp;&emsp;Link 包括 green link 和 redlink, 是围绕校园以及downtown周边的一条线路。<br>
+&emsp;&emsp;重要的是,小编要强调下这些线路都是免费的！ok！免费！free!<br><br>
       
       
 * **收费形式**
   * **零钱**<br>
-&emsp;&emsp;美国的自动售票机器非常高级，即可以投纸币，也可以投硬币，并且会自动计算金额，当达到票价时会自动beep一声。但是，也是恕不找零的！
+&emsp;&emsp;美国的自动售票机器非常高级，即可以投纸币，也可以投硬币。<br>
+&emsp;&emsp;并且会自动计算金额，当达到票价时会自动beep一声。<br>
+&emsp;&emsp;但是，也是恕不找零的！
       
   * **Token**<br>
-&emsp;&emsp;看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。20个39刀,另外也提供手机通过Token Transit app购买day passes。
+&emsp;&emsp;看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。<br>
+&emsp;&emsp;20个39刀,另外也提供手机通过Token Transit app购买day passes。
       
   * **公交卡**<br>
-&emsp;&emsp;这种也是最常见以及最划算的一种付费方式。分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。一般在营业厅买的buspass 是可以乘坐所有线路的。同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。<br><br>
+&emsp;&emsp;这种也是最常见以及最划算的一种付费方式。<br>
+&emsp;&emsp;分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。<br>
+&emsp;&emsp;一般在营业厅买的buspass 是可以乘坐所有线路的。<br>
+&emsp;&emsp;同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。<br><br>
       
 
 * **办公地点**

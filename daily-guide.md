@@ -38,19 +38,19 @@
 
       \(below the Centre Region Schlow Library\)
  * **Phone:**
-  * \(814\)-238-2282 
+   * \(814\)-238-2282 
  * **Office hour:**
-  * Monday – Friday:
+   * Monday – Friday:
 
-    7:30a.m. – 5:30 p.m.
+     7:30a.m. – 5:30 p.m.
 
-  * Saturday:
+   * Saturday:
 
-    9:30 a.m. – 1:00 p.m.
+     9:30 a.m. – 1:00 p.m.
 
-  * Sunday:
+   * Sunday:
 
-    Closed
+     Closed
 
 {% hint style="info" %}
 

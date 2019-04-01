@@ -25,23 +25,25 @@
       
 * **收费形式**
   * **零钱**<br>
-      &emsp;美国的自动售票机器非常高级，即可以投纸币，也可以投硬币，并且会自动计算金额，当达到票价时会自动beep一声。但是，也是恕不找零的！
+&emsp;&emsp;美国的自动售票机器非常高级，即可以投纸币，也可以投硬币，并且会自动计算金额，当达到票价时会自动beep一声。但是，也是恕不找零的！
       
   * **Token**<br>
-      &emsp;看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。20个39刀,另外也提供手机通过Token Transit app购买day passes。
+&emsp;&emsp;看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。20个39刀,另外也提供手机通过Token Transit app购买day passes。
       
   * **公交卡**<br>
-      &emsp;这种也是最常见以及最划算的一种付费方式。分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。一般在营业厅买的buspass 是可以乘坐所有线路的。同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。
+&emsp;&emsp;这种也是最常见以及最划算的一种付费方式。分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。一般在营业厅买的buspass 是可以乘坐所有线路的。同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。
       
 
 * **办公地点**
-  * **Address:**
-    * 108 East Beaver Avenue, State College, PA 16801-4921
-    (below the Centre Region Schlow Library)
-  * **Phone:**
-    * (814)-238-2282
-  * **Office hour:**
-    * Monday – Friday: 7:30a.m. – 5:30 p.m.
-    * Saturday: 9:30 a.m. – 1:00 p.m.
-    * Sunday: Closed
+  * **Address:**<br>
+&emsp;&emsp;108 East Beaver Avenue, State College, PA 16801-4921<br>
+&emsp;&emsp;(below the Centre Region Schlow Library)
+
+  * **Phone:**<br>
+&emsp;&emsp;(814)-238-2282
+
+  * **Office hour:**<br>
+&emsp;&emsp;Monday – Friday: 7:30a.m. – 5:30 p.m.<br>
+&emsp;&emsp;Saturday: 9:30 a.m. – 1:00 p.m.<br>
+&emsp;&emsp;Sunday: Closed
 

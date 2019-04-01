@@ -42,5 +42,5 @@ Phone: (814)-238-2282<br>
 Office hour:<br>
 Monday – Friday: 7:30a.m. – 5:30 p.m.<br>
 Saturday: 9:30 a.m. – 1:00 p.m.<br>
-Sunday: Closed</pre>**
+Sunday: Closed<pre/>**
 

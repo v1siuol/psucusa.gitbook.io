@@ -16,17 +16,14 @@
 
 * **公交线路**
 
-  * **Centre Line**<br>
-&emsp;&emsp;就是大体上围绕着整个Penn State 大学校园及城市的各种公交线路。<br>
-&emsp;&emsp;常见的线路有（N, NV, W, V, NE, WE, VE, HP, B, M等）。
+  * **Centre Line**
+    * <pr>就是大体上围绕着整个Penn State 大学校园及城市的各种公交线路。常见的线路有（N, NV, W, V, NE, WE, VE, HP, B, M等）。<pr/>
       
-  * **Loop/Link**<br>
-&emsp;&emsp;Loop 包括blue loop 和white loop 是两条围绕校园且方向相反的环线。<br>
-&emsp;&emsp;Link 包括 green link 和 redlink, 是围绕校园以及downtown周边的一条线路。<br>
-&emsp;&emsp;重要的是,小编要强调下这些线路都是免费的！ok！免费！free!<br><br>
+  * **Loop/Link**
+    * <pr>Loop 包括blue loop 和white loop 是两条围绕校园且方向相反的环线。Link 包括 green link 和 redlink, 是围绕校园以及downtown周边的一条线路。重要的是,小编要强调下这些线路都是免费的！ok！免费！free!<pr/><br><br>
       
       
-* **收费形式**<br><br>
+* **收费形式**
 
   * **零钱**
     * <pr>美国的自动售票机器非常高级，即可以投纸币，也可以投硬币。并且会自动计算金额，当达到票价时会自动beep一声。但是，也是恕不找零的！

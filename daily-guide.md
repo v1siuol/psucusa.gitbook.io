@@ -27,20 +27,14 @@
       
       
 * **收费形式**
-  * **零钱**<br>
-&emsp;&emsp;美国的自动售票机器非常高级，即可以投纸币，也可以投硬币。<br>
-&emsp;&emsp;并且会自动计算金额，当达到票价时会自动beep一声。<br>
-&emsp;&emsp;但是，也是恕不找零的！
+  * **零钱**
+    * <pr>美国的自动售票机器非常高级，即可以投纸币，也可以投硬币。并且会自动计算金额，当达到票价时会自动beep一声。但是，也是恕不找零的！
       
-  * **Token**<br>
-&emsp;&emsp;看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。<br>
-&emsp;&emsp;20个39刀,另外也提供手机通过Token Transit app购买day passes。
+  * **Token**
+    * <pr>看起来像一个金色的游戏币。可以在学校hub 的 information center 或 downtown的营业厅购买。20个39刀,另外也提供手机通过Token Transit app购买day passes。<pr/>
       
-  * **公交卡**<br>
-&emsp;&emsp;这种也是最常见以及最划算的一种付费方式。<br>
-&emsp;&emsp;分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。<br>
-&emsp;&emsp;一般在营业厅买的buspass 是可以乘坐所有线路的。<br>
-&emsp;&emsp;同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。<br><br>
+  * **公交卡**
+    * <pr>这种也是最常见以及最划算的一种付费方式。分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。一般在营业厅买的buspass 是可以乘坐所有线路的。同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。<pr/><br><br>
       
 
 * **办公地点**

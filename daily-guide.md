@@ -34,13 +34,14 @@
       这种也是最常见以及最划算的一种付费方式。分为月票和季票两种形式。月票79刀，季票309刀。均可在相对应有效期内无限次乘坐制定公交车。一般在营业厅买的buspass 是可以乘坐所有线路的。同样，外面的一些学生公寓会发给tenants 免费或者折扣的buspass, 但是所能乘坐的线路有限。
       
 
-* **办公地点**
-**Address:** 
-108 East Beaver Avenue, State College, PA 16801-4921
-(below the Centre Region Schlow Library)<br>
-**Phone:** (814)-238-2282<br>
-**Office hour:**<br>
-Monday – Friday: 7:30a.m. – 5:30 p.m.<br>
-Saturday: 9:30 a.m. – 1:00 p.m.<br>
-Sunday: Closed
+* **办公地点**<br>
+&emsp;&emsp;              **Address:**<br>
+&emsp;&emsp;&emsp;&emsp;        108 East Beaver Avenue, State College, PA 16801-4921<br>
+&emsp;&emsp;&emsp;&emsp;        (below the Centre Region Schlow Library)<br>                                                <br>
+&emsp;&emsp;              **Phone:**<br>
+&emsp;&emsp;&emsp;&emsp;        (814)-238-2282<br>                                                                          <br>
+&emsp;&emsp;              **Office hour:**<br>
+&emsp;&emsp;&emsp;&emsp;        Monday – Friday: 7:30a.m. – 5:30 p.m.<br>                                                   <br>
+&emsp;&emsp;&emsp;&emsp;        Saturday: 9:30 a.m. – 1:00 p.m.<br>                                                         <br>
+&emsp;&emsp;&emsp;&emsp;        Sunday: Closed
 

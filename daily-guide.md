@@ -44,7 +44,10 @@
     * <pr>(814)-238-2282<pr/><br>
 
   * **Office hour:**
-    * <pr>Monday – Friday: 7:30a.m. – 5:30 p.m.
-Saturday: 9:30 a.m. – 1:00 p.m.
-Sunday: Closed<pr/>
+    * <pr>Monday – Friday:
+7:30a.m. – 5:30 p.m.<br>
+Saturday:
+9:30 a.m. – 1:00 p.m.<br>
+Sunday:
+Closed<pr/>
 

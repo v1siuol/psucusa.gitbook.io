@@ -106,17 +106,17 @@ iStart 信息概要
 
 2.	<pr>My Information: <br>
 可以看到自己宿舍的各种信息，其中：<pr/>
-  * <pr>My Room：<br>
+  * <pr>My Room：
  宿舍的区域和 Residential Hall 的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox 的密码<pr/>
-  *	<pr>My Meal Plan：<br>
+  *	<pr>My Meal Plan：
  可以看到 Meal Plan和 Lion Cash+ 的具体信息和余额<pr/>
-  *	<pr>Room Exchange eBoard：<br>
+  *	<pr>Room Exchange eBoard：
  如果对自己的宿舍分配不满意，可以在这个版面和其他同样对自己的宿舍分配不满意的同学们交换宿舍<pr/>
-  *	<pr>Room Inspection：<br>
+  *	<pr>Room Inspection：
  入住宿舍的第一天记得进入这个版面，检查一下你的宿舍有没有什么家具和设备出了问题，如果有问题的话要及时提交维修申请，不然被学校发现了什么问题，而你和你的室友没有及时上报的话，你们要负全责的哦！<pr/>
-  *	<pr>Evacuation Assistant：<br>
+  *	<pr>Evacuation Assistant：
  事故疏散信息<pr/>
-  *	<pr>My Housing Chairs：<br>
+  *	<pr>My Housing Chairs：
  舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~<pr/>
   
 3.	<pr>Undergraduate Contract Process Info: <br>

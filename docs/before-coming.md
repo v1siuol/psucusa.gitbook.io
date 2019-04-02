@@ -102,7 +102,7 @@ iStart 信息概要
 进入 eLiving 网站后，可以看到左边有一大排菜单栏：
 
 1.	<pr>My Requests & Contacts: <br>
- 可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan<pr/>
+可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan<pr/>
 
 2.	<pr>My Information: <br>
 可以看到自己宿舍的各种信息，其中：<pr/>
@@ -120,16 +120,16 @@ iStart 信息概要
  舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~<pr/>
   
 3.	<pr>Undergraduate Contract Process Info: <br>
- 宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。<pr/>
+宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。<pr/>
 
 4.	<pr>Graduate/Families: <br>
- 研究生住宿信息<pr/>
+研究生住宿信息<pr/>
 
 5.	<pr>Information：<br>
- 一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。<pr/>
+一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。<pr/>
 
-6.	<pr>Housing & Food Services：<br>
- 其他的提供住宿的分校区的传送门链接<pr/>
+6.	<pr>Housing & Food Services：
+其他的提供住宿的分校区的传送门链接<pr/>
 
 ### 补充一下
 

@@ -128,7 +128,7 @@ iStart 信息概要
 5.	<pr>Information：<br>
 一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。<pr/>
 
-6.	<pr>Housing & Food Services：
+6.	<pr>Housing & Food Services：<br>
 其他的提供住宿的分校区的传送门链接<pr/>
 
 ### 补充一下

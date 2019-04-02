@@ -101,10 +101,10 @@ iStart 信息概要
 相信各位新生都已经在eLiving网站上选好宿舍了。下面就来简单介绍一下eLiving吧！
 进入eLiving网站后，可以看到左边有一大排菜单栏：
 
-1.	<pr>My Requests & Contacts: 
+1.	<pr>My Requests & Contacts: <br>
  可以看到自己的Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的Meal Plan<pr/>
 
-2.	<pr>My Information: 
+2.	<pr>My Information: <br>
 可以看到自己宿舍的各种信息，其中：<pr/>
   * My Room：宿舍的区域和Residential Hall的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox的密码
   *	My Meal Plan：可以看到Meal Plan和Lion Cash+的具体信息和余额
@@ -113,16 +113,16 @@ iStart 信息概要
   *	Evacuation Assistant：事故疏散信息
   *	My Housing Chairs：舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~
   
-3.	<pr>Undergraduate Contract Process Info: 
+3.	<pr>Undergraduate Contract Process Info: <br>
  宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。<pr/>
 
-4.	<pr>Graduate/Families: 
+4.	<pr>Graduate/Families: <br>
  研究生住宿信息<pr/>
 
-5.	<pr>Information：
+5.	<pr>Information：<br>
  一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。<pr/>
 
-6.	<pr>Housing & Food Services：
+6.	<pr>Housing & Food Services：<br>
  其他的提供住宿的分校区的传送门链接<pr/>
 
 ### 补充一下

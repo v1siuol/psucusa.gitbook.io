@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](.gitbook/assets/i20%20%281%29.png)
+![](.gitbook/assets/i20-1.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}
@@ -75,15 +75,9 @@ iStart 信息概要
 **今年入学的新生如果将乘坐飞往State College \(SCE\)机场的班机，通过以下途径同样可以到达学校：**
 
 * **出租车**
-
   * State College 的机场到学校车程很近，从机场打车到学校在10-15刀左右。机场门口在返校高峰经常会有Taxi面包车拼车回学校，一个人10刀左右。
-
-
 * **酒店shuttle**
-
   * 如果你预定了暂住的酒店，可以乘坐酒店的 shuttle
-
-
 * **长途巴士**
   * 如果飞到周边城市，如纽约和费城，可以选择坐 Megabus 或 greyhound 等长途巴士到 State College。记得在巴士公司的官网提前订票，并保留预订号码以备上车前查票。注意上车的地点在指定区域（详细上车地址根据巴士公司不同分布）通常在市区而不是机场，所以要乘坐长途汽车通先到达上车地点。
 
@@ -91,45 +85,41 @@ iStart 信息概要
 
 ### 临时住宿
 
-在ISO期间，到了学校之后，新生可以选择直奔East Halls Residential Area的Findlay Commons，办理临时住宿。临时宿舍不需要预定，到了就可以直接入住，不过学校还是有提供快捷check-in渠道：https://global.psu.edu/isofa18 
-（小编按：其实这个表填不填都无所谓啦，无非就是人多的时候快一点而已，嘻嘻）
-临时宿舍开放时间是8月1号~8月13号，每晚的费用为$25，需要在领房间钥匙和临时门卡的时候缴费，所以记得准备好现金或者信用卡付钱哦！住宿期间每人会被随机分配一名室友，当然这个室友一般会是同样来参加ISO的国际学生，有很大几率会是中国人。临时宿舍不会提供任何床上用品（正式宿舍也不会）所以入住后要赶紧去超市买好要用的床上用品了（不要像小编一样，盖着带来的浴巾睡了一晚上QAQ）
-8月14号 开始，所有新生就可以开始入住正式宿舍啦！
+在ISO期间，到了学校之后，新生可以选择直奔East Halls Residential Area的Findlay Commons，办理临时住宿。临时宿舍不需要预定，到了就可以直接入住，不过学校还是有提供快捷check-in渠道：[https://global.psu.edu/isofa18](https://global.psu.edu/isofa18) （小编按：其实这个表填不填都无所谓啦，无非就是人多的时候快一点而已，嘻嘻） 临时宿舍开放时间是8月1号~8月13号，每晚的费用为$25，需要在领房间钥匙和临时门卡的时候缴费，所以记得准备好现金或者信用卡付钱哦！住宿期间每人会被随机分配一名室友，当然这个室友一般会是同样来参加ISO的国际学生，有很大几率会是中国人。临时宿舍不会提供任何床上用品（正式宿舍也不会）所以入住后要赶紧去超市买好要用的床上用品了（不要像小编一样，盖着带来的浴巾睡了一晚上QAQ） 8月14号 开始，所有新生就可以开始入住正式宿舍啦！
 
 ### 正式住宿
 
-相信各位新生都已经在 eLiving 网站上选好宿舍了。下面就来简单介绍一下 eLiving 吧！
-进入 eLiving 网站后，可以看到左边有一大排菜单栏：
+相信各位新生都已经在 eLiving 网站上选好宿舍了。下面就来简单介绍一下 eLiving 吧！ 进入 eLiving 网站后，可以看到左边有一大排菜单栏：
 
-1.	<pr>My Requests & Contacts: <br>
-可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan<pr/>
+1. My Requests & Contacts:   可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan
+2. My Information:   可以看到自己宿舍的各种信息，其中：
+   * My Room：
 
-2.	<pr>My Information: <br>
-可以看到自己宿舍的各种信息，其中：<pr/>
-  * <pr>My Room：
- 宿舍的区域和 Residential Hall 的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox 的密码<pr/>
-  *	<pr>My Meal Plan：
- 可以看到 Meal Plan和 Lion Cash+ 的具体信息和余额<pr/>
-  *	<pr>Room Exchange eBoard：
- 如果对自己的宿舍分配不满意，可以在这个版面和其他同样对自己的宿舍分配不满意的同学们交换宿舍<pr/>
-  *	<pr>Room Inspection：
- 入住宿舍的第一天记得进入这个版面，检查一下你的宿舍有没有什么家具和设备出了问题，如果有问题的话要及时提交维修申请，不然被学校发现了什么问题，而你和你的室友没有及时上报的话，你们要负全责的哦！<pr/>
-  *	<pr>Evacuation Assistant：
- 事故疏散信息<pr/>
-  *	<pr>My Housing Chairs：
- 舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~<pr/>
-  
-3.	<pr>Undergraduate Contract Process Info: <br>
-宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。<pr/>
+     宿舍的区域和 Residential Hall 的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox 的密码
 
-4.	<pr>Graduate/Families: <br>
-研究生住宿信息<pr/>
+   * My Meal Plan：
 
-5.	<pr>Information：<br>
-一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。<pr/>
+     可以看到 Meal Plan和 Lion Cash+ 的具体信息和余额
 
-6.	<pr>Housing & Food Services：<br>
-其他的提供住宿的分校区的传送门链接<pr/>
+   * Room Exchange eBoard：
+
+     如果对自己的宿舍分配不满意，可以在这个版面和其他同样对自己的宿舍分配不满意的同学们交换宿舍
+
+   * Room Inspection：
+
+     入住宿舍的第一天记得进入这个版面，检查一下你的宿舍有没有什么家具和设备出了问题，如果有问题的话要及时提交维修申请，不然被学校发现了什么问题，而你和你的室友没有及时上报的话，你们要负全责的哦！
+
+   * Evacuation Assistant：
+
+     事故疏散信息
+
+   * My Housing Chairs：
+
+     舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~
+3. Undergraduate Contract Process Info:   宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。
+4. Graduate/Families:   研究生住宿信息
+5. Information：  一些住宿常识的介绍，如Meal Plan计算方法、ID卡的使用指南、停车位的申请、特殊住宿要求、住宿协议条款等等。
+6. Housing & Food Services：  其他的提供住宿的分校区的传送门链接
 
 ### 补充一下
 

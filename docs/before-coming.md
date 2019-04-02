@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](.gitbook/assets/i20.png)
+![](.gitbook/assets/i20%20%281%29.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}
@@ -82,7 +82,7 @@ iStart 信息概要
 
 * **酒店shuttle**
 
-  *  ****如果你预定了暂住的酒店，可以乘坐酒店的 shuttle
+  * _\*\*_如果你预定了暂住的酒店，可以乘坐酒店的 shuttle
 
   \*\*\*\*
 
@@ -93,11 +93,7 @@ iStart 信息概要
 
 ### 临时住宿
 
-
-
 ### 正式住宿
-
-
 
 ### **补充一下**
 
@@ -105,6 +101,5 @@ iStart 信息概要
 2. 不想住临时宿舍的小朋友也可以在ISO期间在校外住酒店，离学校比较近的酒店推荐有：Days Inn，Atherton Hotel，Quality Inn等
 3. 想要换宿舍的小朋友，可以翻个墙上Facebook，搜索并加入Penn State 2022的群组，在里面会有很多换房小广告（小编当年就是这样换到宿舍的哦XD）
 
-**希望大家住宿愉快XD**  
-
+**希望大家住宿愉快XD**
 

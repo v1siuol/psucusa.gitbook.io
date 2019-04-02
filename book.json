@@ -5,14 +5,10 @@
         "plugins": [
                 "theme-official@2.1.1",
                 "-fontsettings",
-                "sitmap",
                 "hints",
                 "simpletabs"
         ],
 
         "pluginsConfig": {
-                "sitemap": {
-                        "hostname": "https://psucusa.gitbook.io/psucusa/"
-                }
         }
 }

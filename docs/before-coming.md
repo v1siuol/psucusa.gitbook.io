@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](.gitbook/assets/i20.png)
+![](docs/.gitbook/assets/i20.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}

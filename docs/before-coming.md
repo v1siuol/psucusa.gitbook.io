@@ -98,20 +98,26 @@ iStart 信息概要
 
 ### 正式住宿
 
-相信各位新生都已经在eLiving网站上选好宿舍了。下面就来简单介绍一下eLiving吧！
-进入eLiving网站后，可以看到左边有一大排菜单栏：
+相信各位新生都已经在 eLiving 网站上选好宿舍了。下面就来简单介绍一下 eLiving 吧！
+进入 eLiving 网站后，可以看到左边有一大排菜单栏：
 
 1.	<pr>My Requests & Contacts: <br>
- 可以看到自己的Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的Meal Plan<pr/>
+ 可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan<pr/>
 
 2.	<pr>My Information: <br>
 可以看到自己宿舍的各种信息，其中：<pr/>
-  * My Room：宿舍的区域和Residential Hall的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox的密码
-  *	My Meal Plan：可以看到Meal Plan和Lion Cash+的具体信息和余额
-  *	Room Exchange eBoard：如果对自己的宿舍分配不满意，可以在这个版面和其他同样对自己的宿舍分配不满意的同学们交换宿舍
-  *	Room Inspection：入住宿舍的第一天记得进入这个版面，检查一下你的宿舍有没有什么家具和设备出了问题，如果有问题的话要及时提交维修申请，不然被学校发现了什么问题，而你和你的室友没有及时上报的话，你们要负全责的哦！
-  *	Evacuation Assistant：事故疏散信息
-  *	My Housing Chairs：舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~
+  * <pr>My Room：<br>
+ 宿舍的区域和 Residential Hall 的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox 的密码<pr/>
+  *	<pr>My Meal Plan：<br>
+ 可以看到 Meal Plan和 Lion Cash+ 的具体信息和余额<pr/>
+  *	<pr>Room Exchange eBoard：<br>
+ 如果对自己的宿舍分配不满意，可以在这个版面和其他同样对自己的宿舍分配不满意的同学们交换宿舍<pr/>
+  *	<pr>Room Inspection：<br>
+ 入住宿舍的第一天记得进入这个版面，检查一下你的宿舍有没有什么家具和设备出了问题，如果有问题的话要及时提交维修申请，不然被学校发现了什么问题，而你和你的室友没有及时上报的话，你们要负全责的哦！<pr/>
+  *	<pr>Evacuation Assistant：<br>
+ 事故疏散信息<pr/>
+  *	<pr>My Housing Chairs：<br>
+ 舍管老师的信息，一般没有重要的大事，直接和舍管学长学姐（也就是Residential Assistants, 简称RA）说就可以啦，不需要惊动老师~<pr/>
   
 3.	<pr>Undergraduate Contract Process Info: <br>
  宿舍的一些基本介绍，以及更换宿舍、高年级住校外的想回到学校住宿的申请等信息。<pr/>

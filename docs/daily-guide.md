@@ -36,7 +36,7 @@
 
       \(below the Centre Region Schlow Library\)
   * **Phone:**
-    * \(814\)-238-2282 
+    * \(814\)-238-2282
   * **Office hour:**
     * Monday – Friday:
 
@@ -150,3 +150,16 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
 
 **开学第一周往往是最忙碌的。相信大家有很多事情去忙碌，但千万不要忘记购买保险。因为保险是留学生（持F1签证）必须要求购买的，如果不购买可能会有严重的后果。这是学校官方的保险购买通知**
 
+![](.gitbook/assets/insurance-1.png)
+
+**这里和大家介绍的就是如何购买学校保险：**
+
+**第一步就是输入网址：http://www.firststudent.com/**
+![](.gitbook/assets/insurance-2.png)
+
+**进入这个页面之后输入咱们的学校 Penn State 就会跳出下一个页面http://www.firststudent.com/school_page/pennsylvania-state-university/home-pennsylvania-state-university/**
+![](.gitbook/assets/insurance-3.png)
+
+**大家进入这个页面之后点Enroll Now-Health Insurance。之后就会进入申请页面～**
+
+**在这个页面大家需要填写自己的信息，填写完成之后就可以选择付款了。大家可以选择使用 electronic check 和信用卡付款，推荐大家使用 electronic check 付款。最后一年保险的金额应该在 $2444 左右。付完款之后就可以去打印自己的 insurance ID card 了。这样我们的保险就购买完成啦，预祝大家在 Penn State 的生活开心顺利 ☺**

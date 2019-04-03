@@ -163,3 +163,20 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
 **大家进入这个页面之后点Enroll Now-Health Insurance。之后就会进入申请页面～**
 
 **在这个页面大家需要填写自己的信息，填写完成之后就可以选择付款了。大家可以选择使用 electronic check 和信用卡付款，推荐大家使用 electronic check 付款。最后一年保险的金额应该在 $2444 左右。付完款之后就可以去打印自己的 insurance ID card 了。这样我们的保险就购买完成啦，预祝大家在 Penn State 的生活开心顺利 ☺**
+
+## 驾照考取方式
+
+<center>**驾照攻略**</center>
+
+* **考前准备材料**
+  * 护照
+  * 打印下来的 i-94 (网站https://i94.cbp.dhs.gov/) 和i20
+  * SSN卡，或者 SSN Refusal Letter
+  * 两份居住证明
+  * 体检证明
+
+* **SSN或 Refusal Letter**
+ * 有 SSN 的同学可以带着 SSN 卡片，但是<span style="color: #BC2A26">没有 SSN 卡的同学也仍然可以申请驾照</span>。没有 SSN 的同学可以去 Social Security Administration 领取 Letter of Ineligibility 来代替 SSN 卡。
+
+* **居住证明**
+  * 两份居住证明：一份住处开的居住证明（住宿舍的同学可以去 istart 上或宿舍管理处申请）和一份银行或水电公司寄来的账单（上面标注你的名字和住址）

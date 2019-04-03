@@ -176,7 +176,7 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
   * 体检证明
 
 * **SSN或 Refusal Letter**
- * 有 SSN 的同学可以带着 SSN 卡片，但是<span style="color: #BC2A26">没有 SSN 卡的同学也仍然可以申请驾照</span>。没有 SSN 的同学可以去 Social Security Administration 领取 Letter of Ineligibility 来代替 SSN 卡。
+ * 有 SSN 的同学可以带着 SSN 卡片，但是<span style="color:red">没有 SSN 卡的同学也仍然可以申请驾照</span>。没有 SSN 的同学可以去 Social Security Administration 领取 Letter of Ineligibility 来代替 SSN 卡。
 
 * **居住证明**
   * 两份居住证明：一份住处开的居住证明（住宿舍的同学可以去 istart 上或宿舍管理处申请）和一份银行或水电公司寄来的账单（上面标注你的名字和住址）

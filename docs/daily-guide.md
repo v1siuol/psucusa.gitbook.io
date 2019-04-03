@@ -8,7 +8,7 @@
 
 ## 学校地图概况
 
-![](.gitbook/assets/campus-map-1.png)
+![](../assets/campus-map-1.png)
 
 **温馨提示：小编强烈建议各位在开学之前，找学姐学长带着大家认识一下校园，因为相信小编，我们大宾村的校园可不是一般大，是真的很大，未来开始的第一周上课不会迷路因此迟到的话，大家还是提早做好准备吧！大家也可以去参见学校的new student orientation, 届时也会有学校的志愿者带领大家参观校园的。问学长学姐哪家强，CUSA 呀！！！**
 
@@ -16,7 +16,7 @@
 
 **美国号称车轮上的国家是绝非浪得虚名的。但是无形中有形成了，在一般城市中公交系统极度匮乏的情况。好在，在我们大宾村，我们的公交系统还是十分完善的。说到这就不得不提到我们学校的垄断公交公司（catabus）。**
 
-![](.gitbook/assets/catabus-logo-1.png)
+![](../assets/catabus-logo-1.png)
 
 * **公交线路**
   * **Centre Line**
@@ -150,15 +150,15 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
 
 **开学第一周往往是最忙碌的。相信大家有很多事情去忙碌，但千万不要忘记购买保险。因为保险是留学生（持F1签证）必须要求购买的，如果不购买可能会有严重的后果。这是学校官方的保险购买通知**
 
-![](.gitbook/assets/insurance-1.png)
+![](../assets/insurance-1.png)
 
 **这里和大家介绍的就是如何购买学校保险：**
 
 **第一步就是输入网址：http://www.firststudent.com/**
-![](.gitbook/assets/insurance-2.png)
+![](../assets/insurance-2.png)
 
 **进入这个页面之后输入咱们的学校 Penn State 就会跳出下一个页面http://www.firststudent.com/school_page/pennsylvania-state-university/home-pennsylvania-state-university/**
-![](.gitbook/assets/insurance-3.png)
+![](../assets/insurance-3.png)
 
 **大家进入这个页面之后点Enroll Now-Health Insurance。之后就会进入申请页面～**
 

@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](.gitbook/assets/i20-1.png)
+![](../assets/i20-1.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}
@@ -128,4 +128,3 @@ iStart 信息概要
 3. 想要换宿舍的小朋友，可以翻个墙上Facebook，搜索并加入Penn State 2022的群组，在里面会有很多换房小广告（小编当年就是这样换到宿舍的哦XD）
 
 **希望大家住宿愉快XD**
-

@@ -6,7 +6,8 @@
                 "theme-official@2.1.1",
                 "-fontsettings",
                 "hints",
-                "simpletabs"
+                "simpletabs",
+                "collapse"
         ],
 
         "pluginsConfig": {

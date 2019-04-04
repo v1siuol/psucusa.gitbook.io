@@ -27,12 +27,18 @@
 ## 选课指南
 ### General Education
 GE, 在美国大学的教育系统当中，大部分的学校将课程程划为两个部分，分别为General Education 和专业课。大部分的专业总学分达到120分即可毕业，但一些工程类专业，例如Electrical Engineering 等 就需要总学分达到130 分方可毕业。由于大部分的专业课难度通常比较大，所以在大一大二，如果能巧妙的通过一些选课技巧合理规划课程安排，不仅可以提高整体GPA, 而且还能让大家在四年的大学生活中更好的完成学业目标顺利毕业。下面就让小编首先为大家介绍一下Penn State 的General Education 板块：
+{% tabs %}
+{% tab title="Skills" %}
 
 |      Skills      |      Credits     |
 |:-----------------|:----------------:|
 | Writing Speaking (GWS) | 9 Credits  |
 | Qualification (GQ)     | 6 Credits  |
 | Total                  | 15 Credits |
+
+{% endtab %}
+
+{% tab title="Additional Requirements" %}
 
 | Additional Requirements         |  Credits   |
 |:--------------------------------|:----------:|
@@ -41,6 +47,21 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 | International Culture ( IL )    | 3 Credits  |
 | Writing Across the Curriculum<br> (W,M,X,Y)  | 3 Credits |
 
+{% endtab %}
+
+{% tab title="Knowledge Domains" %}
+
+| Knowledge Domains                    | Credits    |
+|--------------------------------------|------------|
+| Health and Physical Activities (GHA) | 3 Credits  |
+| Natural Science (GN)                 | 9 Credits  |
+| Arts (GA)                            | 6 Credits  |
+| Humanities (GH)                      | 6 Credits  |
+| Social and Behavioral Science (GS)   | 6 Credits  |
+| Total                                | 30 Credits |
+
+{% endtab %}
+{% endtabs %}
 
 ## Canvas 及 LionPath 使用教程
 

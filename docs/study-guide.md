@@ -31,7 +31,7 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 {% tab title="Skills" %}
 
 |      Skills      |      Credits     |
-|:----------------:|:----------------:|
+|------------------|------------------|
 | Writing Speaking (GWS) | 9 Credits  |
 | Qualification (GQ)     | 6 Credits  |
 | Total                  | 15 Credits |
@@ -41,7 +41,7 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 {% tab title="Additional Requirements" %}
 
 | Additional Requirements         |  Credits   |
-|:-------------------------------:|:----------:|
+|---------------------------------|------------|
 | First Year Engagement Program<br> (First Year Seminar) | may vary   |
 | United States Culture ( US )    | 3 Credits  |
 | International Culture ( IL )    | 3 Credits  |
@@ -52,7 +52,7 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 {% tab title="Knowledge Domains" %}
 
 | Knowledge Domains                    | Credits    |
-|:------------------------------------:|:----------:|
+|--------------------------------------|------------|
 | Health and Physical Activities (GHA) | 3 Credits  |
 | Natural Science (GN)                 | 9 Credits  |
 | Arts (GA)                            | 6 Credits  |

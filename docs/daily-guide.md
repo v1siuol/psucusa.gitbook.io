@@ -166,7 +166,7 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
 
 ## 驾照考取方式
 
-{% center %} **驾照攻略** {% endcenter %}
+<div class="text-center"><span>**驾照攻略**</span></div>
 
 * **考前准备材料**
   * 护照

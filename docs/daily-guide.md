@@ -1,4 +1,3 @@
-<style type='text/css'> center { text-align: center }</style>
 # 生活指南篇
 
 ## 保险购买指南
@@ -167,7 +166,7 @@ West 宿舍就是离各种大一会上课的地方（Sparks, Chamber, Forum, Wil
 
 ## 驾照考取方式
 
-`<p><center><strong>驾照攻略</strong></p></center>`
+`<center><strong>驾照攻略</strong></center>`
 
 * **考前准备材料**
   * 护照

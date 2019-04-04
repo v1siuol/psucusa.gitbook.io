@@ -16,7 +16,7 @@ iStart 信息概要
 5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
-![](../assets/i20-1.png)
+![](.gitbook/assets/i20-1.png)
 
 {% tabs %}
 {% tab title="a-d.   " %}
@@ -92,7 +92,7 @@ iStart 信息概要
 相信各位新生都已经在 eLiving 网站上选好宿舍了。下面就来简单介绍一下 eLiving 吧！ 进入 eLiving 网站后，可以看到左边有一大排菜单栏：
 
 1. My Requests & Contacts:   可以看到自己的 Housing Contracts，修改自己的舍友匹配，特殊要求，和购买额外的 Meal Plan
-2. My Information:   可以看到自己宿舍的各种信息，其中：
+2. My Information: 可以看到自己宿舍的各种信息，其中：
    * My Room：
 
      宿舍的区域和 Residential Hall 的名字、房型、Meal Plan Level、舍友姓名和联系方式、mailbox 的密码
@@ -128,3 +128,4 @@ iStart 信息概要
 3. 想要换宿舍的小朋友，可以翻个墙上Facebook，搜索并加入Penn State 2022的群组，在里面会有很多换房小广告（小编当年就是这样换到宿舍的哦XD）
 
 **希望大家住宿愉快XD**
+

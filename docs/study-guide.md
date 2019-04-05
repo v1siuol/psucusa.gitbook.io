@@ -187,7 +187,8 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
     > * Hotness
         * 热门教授
     > * Tags
-          学生给的一些标签，如“评分严格”“不需要课本”“翘课？那你就挂了”“作业很多”“有extra credit”等
+
+        学生给的一些标签，如“评分严格”“不需要课本”“翘课？那你就挂了”“作业很多”“有extra credit”等
     > * Grade Received 取得的成绩
     > * Attendance 是否有签到
     > * Textbook Used 是否需要课本

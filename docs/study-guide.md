@@ -216,7 +216,7 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 ## Canvas 及 LionPath 使用教程
 &emsp;&emsp;首先，我们先说说在最左边的功能栏吧。
 
-<img style="float: left;" src=".gitbook/assets/canvas-1.png">
+![](.gitbook/assets/canvas-1.png)
 
 第一个Account（个人信息）是对自己的账号做出一些改变
 

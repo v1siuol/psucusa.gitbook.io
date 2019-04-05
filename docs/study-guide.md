@@ -181,19 +181,60 @@ GE, 在美国大学的教育系统当中，大部分的学校将课程程划为�
 ## Rate My Professor 网站介绍
 &emsp;&emsp;全美国大学生的福音！这个网站的功能是教授评价，所有评价都来自学生，有打分系统和点评功能，不管选什么课（必修课和水课）之前都推荐去这个网站去对比不同section的教授，以选择最适合自己的教授。评价标准包括：
 
-    > * Overall Quality 总体评价，满分5分
-    > * Level of Difficulty课程难度等级，5分为很难，1分为很水
-    > * Would Take Again 还想再上
+    > * Overall Quality
+        * 总体评价，满分5分
+
+    > * Level of Difficulty
+        * 课程难度等级，5分为很难，1分为很水
+
+    > * Would Take Again
+        * 还想再上一遍!!!
+
     > * Hotness
         * 热门教授
-    > * Tags
 
-        学生给的一些标签，如“评分严格”“不需要课本”“翘课？那你就挂了”“作业很多”“有extra credit”等
-    > * Grade Received 取得的成绩
-    > * Attendance 是否有签到
-    > * Textbook Used 是否需要课本
+    > * Tags
+        * 学生给的一些标签，如“评分严格”“不需要课本”“翘课？那你就挂了”“作业很多”“有extra credit”等
+
+    > * Grade Received
+        * 取得的成绩
+
+    > * Attendance
+        * 是否有签到
+
+    > * Textbook Used
+        * 是否需要课本
+
+&emsp;&emsp;标准意义上的好教授，最起码要有3.5分以上的 Overall Quality，也就是总体评价。一般4分以上的教授都是很好相处，不让人讨厌的教授，4.5分以上的教授都是人见人爱、迷妹一片的教授了。比如小编最爱的数学教授，MATH 250的 Nestor Handzy，评分可是高达4.9分呢！上过的都说好XD
+
+&emsp;&emsp;如果同学们用的是 Google Chrome 浏览器，这里推荐一个插件，有了这个插件之后，你在 LionPATH 选课的时候，教授的旁边就会自动显示他/她在 Rate My Professor上的Overall Quality，这样就不用一个教授一个教授地搜索，也不用两个网页来回切换了！不过具体的信息，还是需要同学们去Rate My Professor网站查看了。这个插件的名字叫做 “Rate My Penn State”，直接在 Google Chrome 的扩展程序里面搜索就可以了~
+
+&emsp;&emsp;同时要注意的是，虽然 Rate My Professor 是一个很好的网站，有很高的参考价值，但千万不要把上面的评分和评价当作圣经。如小编上面提到的，每个人都有自己擅长和不擅长的地方，别人的水课不一定是你的水课，而别人喜欢的教授也不一定对你的胃口。
+
+&emsp;&emsp;链接：[Rate My Professor](http://ratemyprofessor.com)
 
 ## Canvas 及 LionPath 使用教程
+&emsp;&emsp;首先，我们先说说在最左边的功能栏吧。
+
+<img style="float: left;" src=".gitbook/assets/canvas-1.png">
+
+第一个Account（个人信息）是对自己的账号做出一些改变
+
+第二个Dashboard（主界面）和第三个Courses（课程信息）都是显示你之前点亮星星的课程，个人很建议把正在上的课点亮星星，以前的课去掉星星
+
+第四个Groups（小组讨论）是你课程的section用的，因为一些大课或者必修课有很多不同的课堂和教授，这里就是用来归纳你所属的section
+
+第五个Calendar（日历），如果教授有心的话，你所有的考试，作业提交时限等都会在这里出现，有的时候不是很靠谱，所以还是建议多在课程里的module或者assignment里面看
+
+第六个Inbox（收信箱），就是写email给教授，助教或者同学的地方
+
+第七个Notices（通知）是一些学校，Canvas自己的通知
+
+第八个Help（帮助中心），可以向Canvas工作人员寻求技术上的帮助
+
+
+
+
 
 ## 学校社团推荐
 

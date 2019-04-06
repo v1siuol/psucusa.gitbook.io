@@ -126,9 +126,9 @@
 
   * 营业时间:
 
-    * Mon - Sat: 10am - 9pm
+    * Mon - Sat: 10:00 am - 9:00 pm
 
-    * Sun: 11am - 6pm
+    * Sun: 11:00 am - 6:00 pm
 
 内设 J.C.Penney, Sears, Macy 和 Bon-Ton 和一些品牌专卖店，比如 Hollister, Express, VC, Gap 等等。
 
@@ -140,9 +140,9 @@
 
   * 营业时间:
 
-    * Mon - Sat: 10am - 9pm
+    * Mon - Sat: 10:00 am - 9:00 pm
 
-    * Sun: 12am - 6pm
+    * Sun: 12:00 am - 6:00 pm
 
 内设Macy’s，电影院及各各种商品店。
 
@@ -153,9 +153,9 @@
 
   * 营业时间:
 
-    * Mon - Sat: 10am - 9pm
+    * Mon - Sat: 10:00 am - 9:00 pm
 
-    * Sun: 11am - 6pm
+    * Sun: 11:00 am - 6:00 pm
 
 KOP 分为两半，一个叫 COURT， 另一个叫 PLAZA， Macy 和 Bloomingdale's 在 Court, Sears, J.C.Penney, Neiman Marcus 和 Nordstrom 是在 Plaza。在 kop 有400多家店，适合周末去购物游玩。
 
@@ -165,20 +165,43 @@ KOP 分为两半，一个叫 COURT， 另一个叫 PLAZA， Macy 和 Bloomingdal
 
     * 营业时间:
 
-      * Mon - Thu: 10am - 8pm
+      * Mon - Thu: 10:00 am - 8:00 pm
 
-      * Fri - Sat: 10am - 9pm
+      * Fri - Sat: 10:00 am - 9:00 pm
 
-      * Sunday: 12am - 7pm
+      * Sunday: 12:00 am - 7:00 pm
 
 位于学校 downtown，是一家街头品牌集合的连锁店（如 Stussy, Dickies, Adidas Original 等）
 
 
 ## 保龄球
+**Northland Bowl & Recreation Center**
 
+  * 地址: [1521 Martin St，State College](https://www.google.com/maps/place/Northland+Bowl+%26+Sports+Center/@40.8055946,-77.8915078,15z/data=!4m2!3m1!1s0x0:0xf7724f2c7271b3a8?sa=X&ved=2ahUKEwiv_f6wmLzhAhXm1FkKHXWpC9EQ_BIwCnoECA8QCA)
+
+  * 电话: (814)-237-1500
+
+  * 推荐路线:
+
+    * 从 College Avenue At Allen Street 搭乘N线 （To Martin Street And Aaron Drive) 经停11站 到达 [1540 Martin Street](https://www.google.com/maps/place/Nittany+Oil+Company,+Inc./@40.8050231,-77.8950764,17z/data=!3m1!4b1!4m5!3m4!1s0x89cea87f7044ea63:0x83b6bab8b3389bc3!8m2!3d40.8050191!4d-77.8928824)（Nittany Oil）
+
+  * 营业时间:
+
+    * Monday - Thursday: 9:00 am - 12:00 am
+
+    * Friday & Saturday: 9:00 am - 3:00 am
+
+    * Sunday: 10:00 am - 12:00 am
 
 ## 滑冰场
+Petula Ice Arena  是 Penn State 的一座能够容纳6014 人的多用途滑冰馆。 目的是为 Penn State hockey 而建， 在没有比赛的时候，每周有公共开放时间（建议提前查看开放时间）
 
+[Petula Ice Arena 网址](http://pegulaicearena.maxgalaxy.net/Schedule.aspx?ID=1&GUID=a1364037-d8a1-481c-b768-fb8b5a2b4fb6)
+
+门票为 $7.00。<br>
+可以自己租冰鞋 $10 一次 ， 也可以自己带。
+
+![](.gitbook/assets/petula.png)
 
 ## 橄榄球赛季
 

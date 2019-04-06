@@ -54,16 +54,124 @@
 
 &#8599;&emsp;Keeney Beany Chocolate巧克力雪糕+巧克力酱
 
-## Icy Snow Karaoke
+**网购的问题：**<br>
+&emsp;&emsp;首先是冷藏的问题，基本上所有的雪糕标价都是$6.25 1/2Gal,但是每一个的冷藏箱费用可不小。因为就算顾客只买一桶雪糕，都需要20刀的冷藏包装费，所以介意大家取得更大优惠的方式或许就只能多买一点了。
 
+## Icy Snow Karaoke
+&emsp;&emsp;Penn State 除了学术方面在美国大学名列前茅外，Top Party School 的称号也被我们光荣地揽入囊中。除了学校丰富的社团活动外，中国留学生也创造了自己丰富的业余生活。 Icy Snow Karaoke 是广大同学课余时间休闲娱乐的首选。店面位于各国美食餐厅之间，与 Penn State 教学楼一街之隔的黄金地理位置。加入 CUSA Member Card Program 便可全年享受优惠哦！
+
+![](.gitbook/assets/ktv.jpg)
 
 ## 学校附近电影院
+* College 9
 
+    * 地址：
+
+      * [3031 Carnegie Dr, State College](https://www.google.com/maps/place/State+College+-+College+9/@40.8102317,-77.9286358,17z/data=!3m1!4b1!4m5!3m4!1s0x89cea7ff3e6946f3:0x6fcfd39e7ec2dbc!8m2!3d40.8102277!4d-77.9264418)
+
+    * 推荐指数：&#11088;&#11088;&#11088;&#11088;
+
+    * 推荐路线：
+
+      1. 从 College Avenue At Allen Street 搭乘W线（To Vally Vista） 经停29站到达 Carnegie Dr At Valley Vista Dr Outbound （$2）
+
+      2. 从 Pattee Library 门口搭乘 Hp 线（To Toftrees） 经停30站到达 N Atherton St At Alexander Construction，再步行0.4 英里 （$2)
+
+* UEC Theatres 12
+
+  * 地址：
+
+    * [125 Premiere Dr, State College](https://www.google.com/maps/place/State+College+-+UEC+Theatres+12/@40.8402903,-77.8010786,15z/data=!4m2!3m1!1s0x0:0x27a68b829980da69?sa=X&ved=2ahUKEwj7x4bikLzhAhUBjVkKHcPODogQ_BIwC3oECA4QCA)
+
+  * 推荐指数：&#11088;&#11088;&#11088;&#11088;
+
+  * 推荐路线：
+
+    * 从 Pattee Library 门口搭乘M线（To Nittany Mall） 经停30站到达 Premiere Dr At UEC 12 Theatre （$2）
 
 ## 校内桌球
+&emsp;&emsp;The Break Zone, PSU 的游戏室位于 HUB-Robeson Center, 提供桌球，飞镖等游戏
+* 桌球和乒乓球每小时收费$5
+* 飞镖每小时$3
+* 其他游戏每小时$4
 
+**营业时间：**
 
-## 学校附近商家分布
+  * Monday:
+    * 1:00 pm - 11:00 pm
+
+  * Tuesday:
+    * 1:00 pm - 11:00 pm
+
+  * Wednesday:
+    * 1:00 pm - 11:00 pm
+
+  * Thursday:
+    * 1:00 pm - 11:00 pm
+
+  * Friday:
+    * 1:00 pm - 2:00 am
+
+  * Saturday:
+    * 1:00 pm - 2:00 am
+
+  * Sunday:
+    * 1:00 pm - 11:00 pm
+
+## 商家分布
+**Nittany Mall**
+
+  * 地址: [2901 E College Ave, State College, PA 16801](https://www.google.com/maps/place/Nittany+Mall/@40.8325334,-77.8026617,17z/data=!3m1!4b1!4m5!3m4!1s0x89cea45f3139065b:0xefb45d948f548fdd!8m2!3d40.8325294!4d-77.8004677)
+  (乘坐M线可到达)
+
+  * 营业时间:
+
+    * Mon - Sat: 10am - 9pm
+
+    * Sun: 11am - 6pm
+
+内设 J.C.Penney, Sears, Macy 和 Bon-Ton 和一些品牌专卖店，比如 Hollister, Express, VC, Gap 等等。
+
+**Harrisburg Mall**
+
+  * 地址: [3501 Paxton St, Harrisburg, PA 171](https://www.google.com/maps/place/Harrisburg+Mall/@40.2522422,-76.8321334,17z/data=!3m1!4b1!4m5!3m4!1s0x89c8c09ac9e4d341:0xf2005f4d39cbfacd!8m2!3d40.2522381!4d-76.8299394)
+
+  (Mega bus Harrisburg 终点站)
+
+  * 营业时间:
+
+    * Mon - Sat: 10am - 9pm
+
+    * Sun: 12am - 6pm
+
+内设Macy’s，电影院及各各种商品店。
+
+**King of Prussia**
+
+  * 地址: [160 N Gulph Rd, King of Prussia, PA 19406](https://www.google.com/maps/place/King+of+Prussia/@40.1055862,-75.4200527,13z/data=!4m5!3m4!1s0x89c6944ab30b8765:0x21c6a02d866542a5!8m2!3d40.0880028!4d-75.3914239)
+  (距离费城半个小时，建议开车去)
+
+  * 营业时间:
+
+    * Mon - Sat: 10am - 9pm
+
+    * Sun: 11am - 6pm
+
+KOP 分为两半，一个叫 COURT， 另一个叫 PLAZA， Macy 和 Bloomingdale's 在 Court, Sears, J.C.Penney, Neiman Marcus 和 Nordstrom 是在 Plaza。在 kop 有400多家店，适合周末去购物游玩。
+
+**Urban Outfitters**
+
+  * 地址: [234 E College Ave, State College, PA](https://www.google.com/maps/place/Urban+Outfitters/@40.796001,-77.859231,15z/data=!4m2!3m1!1s0x0:0x713771aaf33e8afe?sa=X&hl=en&ved=2ahUKEwibsoKdlrzhAhVmuVkKHcb1D2UQ_BIwEnoECA4QCA)
+
+    * 营业时间:
+
+      * Mon - Thu: 10am - 8pm
+
+      * Fri - Sat: 10am - 9pm
+
+      * Sunday: 12am - 7pm
+
+位于学校 downtown，是一家街头品牌集合的连锁店（如 Stussy, Dickies, Adidas Original 等）
 
 
 ## 保龄球

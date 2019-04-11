@@ -84,7 +84,6 @@
   纽约的美食也值得细细品尝.以下为五家被评为米其林三星的纽约餐厅.
 
 {% tabs %}
-
 {% tab title="Chef’s Table"}
 [431 W 37th St, New York, NY 10018](https://www.google.com/maps/place/Chef's+Table+at+Brooklyn+Fare/@40.7561943,-74.0227197,13z/data=!4m8!1m2!2m1!1sChef's+Table!3m4!1s0x89c25a4d00525589:0xa0ddf3ff54eadbcd!8m2!3d40.7561187!4d-73.996455)
 
@@ -114,7 +113,6 @@
 
 被誉为纽约最佳餐厅，在里面即刻享受味觉的盛宴。
 {% endtab %}
-
 {% endtabs %}
 
 ### Boston

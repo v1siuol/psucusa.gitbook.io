@@ -88,7 +88,7 @@
 &emsp;&emsp;纽约的美食也值得细细品尝.以下为五家被评为米其林三星的纽约餐厅.
   * Chef’s Table
 
-    * [212 Schermerhorn St. (btwn Hoyt St. And Bond St.), Brooklyn, NY 11201](https://www.google.com/maps/place/Chef's+Table+at+Brooklyn+Fare/@40.7561187,-73.996455,15z/data=!4m2!3m1!1s0x0:0xa0ddf3ff54eadbcd?sa=X&ved=2ahUKEwi9itaH88jhAhVniOAKHRVjB3AQ_BIwCnoECAsQCA)
+    * [431 W 37th St, New York, NY 10018](https://www.google.com/maps/place/Chef's+Table+at+Brooklyn+Fare/@40.7561187,-73.996455,15z/data=!4m2!3m1!1s0x0:0xa0ddf3ff54eadbcd?sa=X&ved=2ahUKEwi9itaH88jhAhVniOAKHRVjB3AQ_BIwCnoECAsQCA)
 
     * 只有18个位置，开放式的厨房，记得要提前6周预定。菜单则每天都在变化，难以预知。
 

@@ -28,14 +28,27 @@
 
 * 公交：市内的工交系统相对发达，但是要时时注意谷歌地图。
 * 一日游线路
-  * 上午
-    * 从匹兹堡市中心附近的酒店出发前往匹兹堡大学和卡耐基梅隆大学。两所大学相隔很近。相对来说身为基督教学校的匹兹堡大学更富有历史气息。而卡耐基梅隆可能就更加的科技化了。值得一提的提的是，匹兹堡大学拥有一座著名建筑叫做 Cathedral of Learning. 十分歌特风。
-  * 中午
-    * 在大学城附近的餐厅就餐，和State College周边一样也有许多的中国餐厅。
-  * 下午
-    * 前往市中心的PNC广场。市中心也同样可以满足许多的购物需求。
-  * 晚上
-    * 匹兹堡的夜景堪称一绝，也是全美十大夜景之一。乘缆车登上 The Duquesne Incline。就可以远眺美美的夜景了。（最好在傍晚时分登上山～）
+
+{% tabs %}
+
+{% tab title="上午"}
+从匹兹堡市中心附近的酒店出发前往匹兹堡大学和卡耐基梅隆大学。两所大学相隔很近。相对来说身为基督教学校的匹兹堡大学更富有历史气息。而卡耐基梅隆可能就更加的科技化了。值得一提的提的是，匹兹堡大学拥有一座著名建筑叫做 Cathedral of Learning. 十分歌特风。
+{% endtab %}
+
+{% tab title="中午"}
+在大学城附近的餐厅就餐，和State College周边一样也有许多的中国餐厅。
+{% endtab %}
+
+{% tab title="下午"}
+前往市中心的PNC广场。市中心也同样可以满足许多的购物需求。
+{% endtab %}
+
+{% tab title="晚上"}
+匹兹堡的夜景堪称一绝，也是全美十大夜景之一。乘缆车登上 The Duquesne Incline。就可以远眺美美的夜景了。（最好在傍晚时分登上山～）
+{% endtab %}
+
+{% endtabs %}
+
 * 两日游线路
   * 第二天的早上就可以前往匹兹堡的 strip 区，十分拥有历史文化特色。各色的食品店，礼品店等等应有尽有。赶个大早，去感受不同的城市文化
   * 小编推荐：匹兹堡周边的奥特莱斯也十分有名。特别大的是 Tanger Outlets 和 Grove City 可以利用回程的路好好再享受购物一番。
@@ -45,12 +58,23 @@
   美国第一大城市，从 State College 乘坐五个小时左右的车就能到达纽约。着实，纽约需要花时间来细细品味，慢慢咀嚼其中的美。下面介绍的路线更具不同的人来分。
 
 * 一日经典路线: 自由女神，华尔街，中央公园，大都会艺术博物馆，帝国大厦。
-  * 上午
-    * 自由女神。自由女神的门票需要提前在官网上订好，直接去是无法上岛的只能远眺。其位于曼哈顿下城区，金融贸易区附近。另外有一条线路是乘坐游船环绕曼哈顿岛。另外华尔街就在几条街之外，步行就能到达。乘此机会也能远眺布鲁克林大桥。
-  * 中午
-    * 可以乘坐地铁前往中央公园。至于午餐就可以在第五大道上面解决，拥有无数大牌专卖店的第五大道也是邂逅明星的好地方。午餐后可以在偌大的中央公园里小憩。也可以前往大都会博物馆参观。（注意，喜好艺术的宝宝们，大都会博物馆并不是一天就能看完的，只能走马观花，如果想细细品味可以另外安排一天。）
-  * 傍晚
-    * 可以前往帝国大厦欣赏纽约的夜景。这个也是老牌的经典游客线路了。
+
+{% tabs %}
+
+{% tab title="上午"}
+自由女神。自由女神的门票需要提前在官网上订好，直接去是无法上岛的只能远眺。其位于曼哈顿下城区，金融贸易区附近。另外有一条线路是乘坐游船环绕曼哈顿岛。另外华尔街就在几条街之外，步行就能到达。乘此机会也能远眺布鲁克林大桥。
+{% endtab %}
+
+{% tab title="中午"}
+可以乘坐地铁前往中央公园。至于午餐就可以在第五大道上面解决，拥有无数大牌专卖店的第五大道也是邂逅明星的好地方。午餐后可以在偌大的中央公园里小憩。也可以前往大都会博物馆参观。（注意，喜好艺术的宝宝们，大都会博物馆并不是一天就能看完的，只能走马观花，如果想细细品味可以另外安排一天。）
+{% endtab %}
+
+{% tab title="傍晚"}
+可以前往帝国大厦欣赏纽约的夜景。这个也是老牌的经典游客线路了。
+{% endtab %}
+
+{% endtabs %}
+
 * 一日游时尚达人线路：SOHO Ktown 第五大道
   * 聚集一种一线潮牌的soho绝对可以满足时尚人士的敏锐触角。 Acne Studio, Stussy. Aape 等等都在 SOHO区设有专门的 Boutique.
   * Ktown：虽然小却十分有特色。值得强推的就是位于这里的姜虎东烤肉。喜欢韩国文化的宝宝们可以到这里过过瘾。
@@ -59,21 +83,39 @@
 
   纽约的美食也值得细细品尝.以下为五家被评为米其林三星的纽约餐厅.
 
-* Chef’s Table
-  * [431 W 37th St, New York, NY 10018](https://www.google.com/maps/place/Chef's+Table+at+Brooklyn+Fare/@40.7561943,-74.0227197,13z/data=!4m8!1m2!2m1!1sChef's+Table!3m4!1s0x89c25a4d00525589:0xa0ddf3ff54eadbcd!8m2!3d40.7561187!4d-73.996455)
-  * 只有18个位置，开放式的厨房，记得要提前6周预定。菜单则每天都在变化，难以预知。
-* Eleven Madison Park
-  * [11 Madison Ave \(at E 24th St\), New York, NY 10010](https://www.google.com/maps/place/Eleven+Madison+Park/@40.7415114,-73.9869677,15z/data=!4m2!3m1!1s0x0:0x5654dfd3ae8aa92c?sa=X&ved=2ahUKEwjkiPCq88jhAhUNn-AKHbMPDb4Q_BIwE3oECAkQCA)
-  * 同样没有菜单，只有一张写着今日食材的卡片，可以将不喜欢的食材划去。留下喜欢的让厨师自行发挥。套餐为225美金。
-* Jean-Georges
-  * [1 Central Park West, New York, NY 10023](https://www.google.com/maps/place/Jean-Georges/@40.7690691,-73.9815601,15z/data=!4m5!3m4!1s0x0:0xb62f2ce924aab247!8m2!3d40.7690691!4d-73.9815601)
-  * 新派法餐的代表。结合了亚洲料理和法国料理。也提供套餐，价格由128-238美金不等。
-* Masa
-  * [10 Columbus Cir, New York, NY 10019](https://www.google.com/maps/place/Masa/@40.7685729,-73.9830453,15z/data=!4m5!3m4!1s0x0:0x20b8803f17d787e0!8m2!3d40.7685729!4d-73.9830453)
-  * 纽约唯一一家日食料理米其林餐厅，也是全世界最昂贵的餐厅之一。人均450美金。
-* Per Se
-  * [10 Columbus Cir, New York, NY 10019](https://www.google.com/maps/place/Per+Se/@40.7682407,-73.9829029,15z/data=!4m5!3m4!1s0x0:0x5e24118dffac8a65!8m2!3d40.7682407!4d-73.9829029)
-  * 被誉为纽约最佳餐厅，在里面即刻享受味觉的盛宴。
+{% tabs %}
+
+{% tab title="Chef’s Table"}
+[431 W 37th St, New York, NY 10018](https://www.google.com/maps/place/Chef's+Table+at+Brooklyn+Fare/@40.7561943,-74.0227197,13z/data=!4m8!1m2!2m1!1sChef's+Table!3m4!1s0x89c25a4d00525589:0xa0ddf3ff54eadbcd!8m2!3d40.7561187!4d-73.996455)
+
+只有18个位置，开放式的厨房，记得要提前6周预定。菜单则每天都在变化，难以预知。
+{% endtab %}
+
+{% tab title="Eleven Madison Park"}
+[11 Madison Ave \(at E 24th St\), New York, NY 10010](https://www.google.com/maps/place/Eleven+Madison+Park/@40.7415114,-73.9869677,15z/data=!4m2!3m1!1s0x0:0x5654dfd3ae8aa92c?sa=X&ved=2ahUKEwjkiPCq88jhAhUNn-AKHbMPDb4Q_BIwE3oECAkQCA)
+
+同样没有菜单，只有一张写着今日食材的卡片，可以将不喜欢的食材划去。留下喜欢的让厨师自行发挥。套餐为225美金。
+{% endtab %}
+
+{% tab title="Jean-Georges"}
+[1 Central Park West, New York, NY 10023](https://www.google.com/maps/place/Jean-Georges/@40.7690691,-73.9815601,15z/data=!4m5!3m4!1s0x0:0xb62f2ce924aab247!8m2!3d40.7690691!4d-73.9815601)
+
+新派法餐的代表。结合了亚洲料理和法国料理。也提供套餐，价格由128-238美金不等。
+{% endtab %}
+
+{% tab title="Masa"}
+[10 Columbus Cir, New York, NY 10019](https://www.google.com/maps/place/Masa/@40.7685729,-73.9830453,15z/data=!4m5!3m4!1s0x0:0x20b8803f17d787e0!8m2!3d40.7685729!4d-73.9830453)
+
+纽约唯一一家日食料理米其林餐厅，也是全世界最昂贵的餐厅之一。人均450美金。
+{% endtab %}
+
+{% tab title="Per Se"}
+[10 Columbus Cir, New York, NY 10019](https://www.google.com/maps/place/Per+Se/@40.7682407,-73.9829029,15z/data=!4m5!3m4!1s0x0:0x5e24118dffac8a65!8m2!3d40.7682407!4d-73.9829029)
+
+被誉为纽约最佳餐厅，在里面即刻享受味觉的盛宴。
+{% endtab %}
+
+{% endtabs %}
 
 ### Boston
 
@@ -221,4 +263,3 @@
 地址: [4639 Cherry Springs Rd, Coudersport, PA 16915](https://www.google.com/maps/place/Cherry+Springs+State+Park/@41.6656062,-77.8280371,15z/data=!4m5!3m4!1s0x0:0x65b78dbe76d60fca!8m2!3d41.6656062!4d-77.8280371)
 
 ![](.gitbook/assets/star.jpg)
-

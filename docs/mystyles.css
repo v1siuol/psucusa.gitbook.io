@@ -1,0 +1,11 @@
+.markdown-section li:before {
+    content: "";
+    display: block;
+    position: relative;
+    left: -25px;
+    top: 16px;
+    width: 8px;
+    height: 8px;
+    transform: rotate(-45deg);
+    background-color: #ffd16d;
+}

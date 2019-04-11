@@ -150,39 +150,38 @@
 
 &emsp;&emsp;芝加哥的好数不胜数，表面虽然钢筋水泥，但实质上，却是一个充斥着文化的地方。来芝加哥，Wills Tower已经成为必须要去的经典，临空400米左右可以俯瞰整个城市的星星点点。另外云门也是必去景点，在水银一般的“豆子”雕塑下面合影，也算是达成了成就。芝加哥也是个博物馆众多的城市。各种有特色的博物馆应有尽有。
 
-## Altoona & 周边
+## Altoona & 娱乐
 &emsp;&emsp;Altoona 中文名为阿尔图纳，距离 State College 约 45 miles，驾驶时间约50分钟。Penn State Altoona 创立于1939年，现学生人数在 Penn State 所有校区排名第三。阿尔图纳建立于1849年，至1895年，阿尔图纳成为美国最主要的铁路运输城市。除铁路运输外，美国南北战争时期，美国第16任总统林肯与12位政治家聚首阿尔图纳商讨南北战争的重要事宜。
 
-### 娱乐
-#### Altoona Railroaders Memorial Museum
+### Altoona Railroaders Memorial Museum
 &emsp;&emsp;阿尔图纳铁路工纪念博物馆
 
   * [1200 9th Ave, Altoona, PA 16602](https://www.google.com/maps/place/Railroaders+Memorial+Museum/@40.513957,-78.39935,15z/data=!4m5!3m4!1s0x0:0x8cad2fff386737ab!8m2!3d40.513957!4d-78.39935)
 
   * 9:00 AM - 5:00 PM
 
-#### Tilt Studio (Arcade & Laser tag room)
+### Tilt Studio (Arcade & Laser tag room)
 &emsp;&emsp;室内电玩场与镭射室
 
   * [5580 Goods Ln, Altoona, PA 16602](https://www.google.com/maps/place/Tilt+Studio+Logan+Valley/@40.4695595,-78.4111047,15z/data=!4m5!3m4!1s0x0:0x8ee053dea508005e!8m2!3d40.4695595!4d-78.4111047)
 
   * 10:00 AM - 10:00 PM
 
-#### Altoona Indoor Range
+### Altoona Indoor Range
 &emsp;&emsp;阿尔图纳室内射击场（枪支与射箭）
 
   * [704 8th Ave, Altoona, PA 16602](https://www.google.com/maps/place/Outdoor+City+%26+Altoona+Indoor+Ranges/@40.5178591,-78.3943423,15z/data=!4m5!3m4!1s0x0:0xba8eb2a7a84f83e2!8m2!3d40.5178591!4d-78.3943423)
 
   * 营业时间不定，建议提前致电 (814)201-2959
 
-#### Horseshoe Curve
+### Horseshoe Curve
 &emsp;&emsp;阿尔图纳国家景点
 
   * [2400 Veterans Memorial Hwy, Altoona, PA 16601](https://www.google.com/maps/place/Horseshoe+Curve+NHL/@40.4977514,-78.4850179,15z/data=!4m5!3m4!1s0x0:0x5cbcfc82f751d88!8m2!3d40.4977514!4d-78.4850179)
 
   * (814)941-2540
 
-#### Lakemont Park
+### Lakemont Park
 &emsp;&emsp;建立于1894年，现仍保留着世界上历史最悠久的过山车 “Leap-The-Dips”
 
   * [700 Park Ave, Altoona, PA 16602](https://www.google.com/maps/place/Lakemont+Park/@40.471383,-78.395828,15z/data=!4m5!3m4!1s0x0:0x9e833df44d247092!8m2!3d40.471383!4d-78.395828)

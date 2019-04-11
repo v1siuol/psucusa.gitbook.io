@@ -227,7 +227,7 @@
 注意事项：Tandem Jump 需求年龄18岁以上，体重不得超过235磅。跳伞当天要穿舒适服装（建议长袖）不得穿凉鞋或拖鞋。有心脏病史，精神疾病，哮喘等病史不建议参见
 {% endhint %}
 
-**地点：** Skydive Happy Valley [540 Airport Rd, Reedsville, PA 17084](https://www.google.com/maps/place/Skydive+Happy+Valley/@40.6776324,-77.6232241,15z/data=!4m5!3m4!1s0x0:0x2882519b5b079efe!8m2!3d40.6776324!4d-77.6232241)
+**地点：** Skydive Happy Valley \([540 Airport Rd, Reedsville, PA 17084](https://www.google.com/maps/place/Skydive+Happy+Valley/@40.6776324,-77.6232241,15z/data=!4m5!3m4!1s0x0:0x2882519b5b079efe!8m2!3d40.6776324!4d-77.6232241)\)
 
 **跳伞种类**
 

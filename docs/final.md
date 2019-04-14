@@ -1,5 +1,7 @@
-# 结尾
+# 结尾篇
+
 ## 学长学姐寄语
+
 **先睡觉吧**：希望你们在 Penn State勿忘初心，向阳生长。学一门自己喜欢的专业，做自己最开心的事。
 
 **佛系少女Jo**：希望学弟学妹们在大学 work hard, play hard！自在随心平安喜乐❤
@@ -24,27 +26,30 @@
 
 ![Big Ten 2014 Shanghai](.gitbook/assets/image89.jpeg)
 
-![2015 CUSA非诚勿扰](.gitbook/assets/image90.jpeg)
+![2015 CUSA&#x975E;&#x8BDA;&#x52FF;&#x6270;](.gitbook/assets/image90.jpeg)
 
-![2015 Homecoming CUSA的方阵](.gitbook/assets/image91.jpeg)
+![2015 Homecoming CUSA&#x7684;&#x65B9;&#x9635;](.gitbook/assets/image91.jpeg)
 
-![2015-2016 CUSA好声音](.gitbook/assets/image92.jpeg)
+![2015-2016 CUSA&#x597D;&#x58F0;&#x97F3;](.gitbook/assets/image92.jpeg)
 
-![2016 Presidential Dinner CUSA代表](.gitbook/assets/image93.jpeg)
+![2016 Presidential Dinner CUSA&#x4EE3;&#x8868;](.gitbook/assets/image93.jpeg)
 
-![CUSA 2016-2017 SunSet Par合照](.gitbook/assets/image94.jpeg)
+![CUSA 2016-2017 SunSet Par&#x5408;&#x7167;](.gitbook/assets/image94.jpeg)
 
 ![CUSA 2017-2018 Banquet](.gitbook/assets/image95.jpeg)
 
 ## 致新生
+
 你们怀着新的喜悦、揣着新的憧憬，带着新的追求，满怀梦想踏上了——－美国，这个用无数梦想堆积成的国度。在这里，没有了翘首以盼的家人，没有了亲切熟悉的环境，没有了肤色单一的人群。相继而来的是激烈的竞争，巨大的压力，以及多元化的挑战。在这里，你第一件需要学习的事情就是“生存”。在美国的四年大学生活，既可以让你感到安逸舒适，也可以让你感到心里交瘁，又可以令你放飞梦想。选择的神圣权利在大家自己的手上。时刻保持初心，迎接苦难与挑战，未来的大门会在不久的将来等待着大家的到来。放下包袱，张开双手，准备好去迎接人生中最深刻的四年大学生活吧！谨以此代表宾西法尼州立大学本科学生联合会欢迎各位新生的到来！
 
 ## CUSA联系方式
-CUSA 微信公众号：psucusa<br>
-CUSA 官方主页：[https://www.psucusa.com/](https://www.psucusa.com/)<br>
-CUSA 新浪微博：[http://weibo.com/psucusa ](http://weibo.com/psucusa )<br>
-CUSA Facebook: [http://facebook.com/cusa.pennstate ](http://facebook.com/cusa.pennstate)<br>
-CUSA 官方Instagram: [psu_cusa ](https://www.instagram.com/psu_cusa/?hl=en)<br>
-CUSA 官方邮箱：psu.cusa@gmail.com
+
+CUSA 微信公众号：psucusa  
+ CUSA 官方主页：[https://www.psucusa.com/](https://www.psucusa.com/)  
+ CUSA 新浪微博：[http://weibo.com/psucusa ](http://weibo.com/psucusa%20)  
+ CUSA Facebook: [http://facebook.com/cusa.pennstate ](http://facebook.com/cusa.pennstate)  
+ CUSA 官方Instagram: [psu\_cusa ](https://www.instagram.com/psu_cusa/?hl=en)  
+ CUSA 官方邮箱：psu.cusa@gmail.com
 
 ![](.gitbook/assets/image96.jpeg)
+

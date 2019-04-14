@@ -1,4 +1,4 @@
-# 前言
+# 手册前言
 
 ## **主编寄语**
 
@@ -14,10 +14,10 @@
 
 **4月8日 State College**
 
+微信公众号：psucusa  
+ 官方主页：[https://www.psucusa.com/](https://www.psucusa.com/)  
+ 新浪微博：[http://weibo.com/psucusa ](http://weibo.com/psucusa%20)  
+ Facebook: [http://facebook.com/cusa.pennstate ](http://facebook.com/cusa.pennstate)  
+ 官方Instagram: [psu\_cusa ](https://www.instagram.com/psu_cusa/?hl=en)  
+ 官方邮箱：psu.cusa@gmail.com
 
-微信公众号：psucusa<br>
-官方主页：[https://www.psucusa.com/](https://www.psucusa.com/)<br>
-新浪微博：[http://weibo.com/psucusa ](http://weibo.com/psucusa )<br>
-Facebook: [http://facebook.com/cusa.pennstate ](http://facebook.com/cusa.pennstate)<br>
-官方Instagram: [psu_cusa ](https://www.instagram.com/psu_cusa/?hl=en)<br>
-官方邮箱：psu.cusa@gmail.com

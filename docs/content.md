@@ -30,7 +30,9 @@
 {% tab title="生活指南篇"%}
 [生活指南篇](daily-guide.md)
 {% endtab %}
+{% endtabs %}
 
+{% tabs %}
 {% tab title="学术攻略篇"%}
 [学术攻略篇](study-guide.md)
 {% endtab %}

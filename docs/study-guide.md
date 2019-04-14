@@ -1,21 +1,20 @@
 # 学术攻略篇
-
 ## 教材购买攻略
-
 ### 如何确定教材？
 
-1. 一般来讲要两种方式结合去做。通常，开学前，教授会向每个他课程下的学生发送一封e-mail\(说说自己的经历，规矩，要求 zzzzzzzz, 最后一般会将关于教材的要求\)。有的时候，有些好教授会提供给学生电子图书下载链接，或者告诉大家其实书不用买也行。这时勤查e-mail 这个好习惯的重要性就体现出来了。案例一，小编自己，EE 以及 CMPSC 课程，由于没看邮件去买了书，结果一学期没看过！都是白花花的银子呀！心在滴血呀！（此处受到一万点伤害）。
-2. 言归正传，官方的方法确定教材是登陆 LionPath 网站，找到 schedule 中的 student schedule，选择一个 semester \(一般新生都是什么 fall\), format 里点 course detail, 之后在buy book 下面打勾，点 confirm selected books， 之后点submit to Penn State Book Store，就可以看到所有所需图书了。
+1. 一般来讲要两种方式结合去做。通常，开学前，教授会向每个他课程下的学生发送一封 e-mail \(说说自己的经历，规矩，要求 Z\~Z\~Z, 最后一般会将关于教材的要求\)。有的时候，有些好教授会提供给学生电子图书下载链接，或者告诉大家其实书不用买也行。这时勤查e-mail 这个好习惯的重要性就体现出来了。案例一，小编自己，EE 以及 CMPSC 课程，由于没看邮件去买了书，结果一学期没看过！都是白花花的银子呀！心在滴血呀！（此处受到一万点伤害）。
+2. 言归正传，官方的方法确定教材是登陆 LionPath 网站，找到 schedule 中的 student schedule，选择一个 semester \(一般新生都是什么 fall\), format 里点 course detail, 之后在 buy book 下面打勾，点 confirm selected books， 之后点 submit to Penn State Book Store，就可以看到所有所需图书了。
 
 ### 如何购买与租借？
-
 #### 一般来讲分为三种：
 
-1. **实体店**<br>    所谓实体店，就是学校的 bookstore。在 Penn State 一共有两个主要的bookstore, 分别位于hub \(学生活动中心\)和 Downtown \(大碗公饭店旁边,W College Ave 上\)。 图书馆的书一般来讲比较全，如果你是土豪并且闲麻烦的话，图书馆购书是不二选择。（真的真的真的很贵，美国的教课书简直贵到丧心病况，但是少数情况下一些比较抢手的课，必要求图书也会出现断货情况。）同时，也可以租借图书，价格一般是购买价的一半不到，过程很简单，拿上你的student id 填个小纸片，交钱！完事！记得工作人员提醒大家的还书日期，学期结束后还晚了可是有late fee 的。
+1. **实体店**<br>    所谓实体店，就是学校的 bookstore。在  Penn State 一共有两个主要的 bookstore, 分别位于 HUB \(学生活动中心\)和 Downtown \(大碗公饭店旁边,W College Ave 上\)。 图书馆的书一般来讲比较全，如果你是土豪并且闲麻烦的话，图书馆购书是不二选择。（真的真的真的很贵，美国的教课书简直贵到丧心病况，但是少数情况下一些比较抢手的课，必要求图书也会出现断货情况。）同时，也可以租借图书，价格一般是购买价的一半不到，过程很简单，拿上你的student id 填个小纸片，交钱！完事！记得工作人员提醒大家的还书日期，学期结束后还晚了可是有 late fee 的。
 
-2. **网上租赁与购买**<br>    一般来讲网上购书优点是价钱真的比bookstore便宜很多通常为bookstore的1/2还不到，但是缺点就是质量不好把控，邮寄速度不理想。此外，网上教科书还会有international edition, 价格会相对更便宜，就是内容稍微有所改动，而且纸张可能没有原版图书的好，但是跟我大天朝比也是好得多了！<br>  [Amazon](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.amazon.com)<br>  [Chegg](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.chegg.com)<br>  [Taobao](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.taobao.com)
+2. **网上租赁与购买**<br>    一般来讲网上购书优点是价钱真的比 bookstore 便宜很多通常为 bookstore 的1/2还不到，但是缺点就是质量不好把控，邮寄速度不理想。此外，网上教科书还会有 international edition, 价格会相对更便宜，就是内容稍微有所改动，而且纸张可能没有原版图书的好，但是跟我大天朝比也是好得多了！<br>  [Amazon](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.amazon.com)<br>  [Chegg](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.chegg.com)<br>  [Taobao](https://github.com/v1siuol/psucusa.gitbook.io/tree/a60ef445cab91e59479273f7b8ba686fdd7460e4/docs/www.taobao.com)
 
-3. **电子书**<br>    如果你是想买电子书，小编还是奉劝一句，三思而行，因为纸质的教科书还是更加的直观一些。但是，嘿嘿，你们这些小心思，小编都懂！下面福利继续放送：    小编来教各位如何在美帝下载电子书
+3. **电子书**<br>    如果你是想买电子书，小编还是奉劝一句，三思而行，因为纸质的教科书还是更加的直观一些。但是，嘿嘿，你们这些小心思，小编都懂！
+
+下面福利继续放送：    小编来教各位如何在美帝下载电子书
    * 一般来讲，大家可以输入书的名字 加 :pdf 在搜索引擎中，之后的过程就不一一详述了，就是一个个筛查，看有没有match的。要是没有，ok 进入下一步骤。
 
    * 求学长学姐share资源，还不行怎么办，再求，还不行，跪求，还不行，……你懂的！哈哈！一般来讲学长学姐哪家强？CUSA 学长学姐胜蓝翔……没加群的各位学弟学妹，赶紧进群。群里只有你们想不到的！

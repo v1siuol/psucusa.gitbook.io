@@ -284,9 +284,9 @@ Help（帮助中心），可以向 Canvas 工作人员寻求技术上的帮助
 注意事项：选课与转主申请务必要与advisor讨论后再做决定！
 {% endhint %}
 
-\1\. 每位准备转主的同学都必须要填写一份转校申请。现在都可以在 LionPath上 Update Academics 里申请 Change of Majors，申请通过后，申请 Change of Campuses。
+1\. 每位准备转主的同学都必须要填写一份转校申请。现在都可以在 LionPath上 Update Academics 里申请 Change of Majors，申请通过后，申请 Change of Campuses。
 
-\2\. Registrar’s Office 会通过以下几点来决定学生是否能成功转主：
+2\. Registrar’s Office 会通过以下几点来决定学生是否能成功转主：
 
      a. 学生是否已经选好专业？
 
@@ -294,7 +294,7 @@ Help（帮助中心），可以向 Canvas 工作人员寻求技术上的帮助
 
      c. 学生当前修到的学分数量－大部分主校学院对提前转主学生都有学分数量要求。
 
-\3\. 以下几点不会成为提早转主的理由：
+3\. 以下几点不会成为提早转主的理由：
 
      a. 已经签好的租房合约
 

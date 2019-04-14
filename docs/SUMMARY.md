@@ -1,6 +1,7 @@
 # Table of contents
 
 * [手册前言](README.md)
+* [目录](content.md)
 * [关于CUSA](about-cusa/README.md)
   * [活动简介](about-cusa/activity-info/README.md)
     * [暑期](about-cusa/activity-info/summer.md)
@@ -22,4 +23,3 @@
 * [校内娱乐篇](on-campus-guide.md)
 * [校外娱乐篇](off-campus-guide.md)
 * [结尾篇](final.md)
-

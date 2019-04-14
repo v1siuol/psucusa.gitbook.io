@@ -1,7 +1,6 @@
 # Table of contents
 
 * [手册前言](README.md)
-* [目录](content.md)
 * [关于CUSA](about-cusa/README.md)
   * [活动简介](about-cusa/activity-info/README.md)
     * [暑期](about-cusa/activity-info/summer.md)

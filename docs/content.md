@@ -16,7 +16,7 @@
     * [人力资源部 （Human Resource）](about-cusa/recruitment-info/hr.md)
     * [媒体部（Media）](about-cusa/recruitment-info/media.md)
     * [校内事务部（UA）](about-cusa/recruitment-info/ua.md)
-* [临行准备篇](before-coming.md)
+* [临行准备篇](before-coming.md/#su-she-yu-ding)
 * [生活指南篇](daily-guide.md)
 * [学术攻略篇](study-guide.md)
 * [校内娱乐篇](on-campus-guide.md)

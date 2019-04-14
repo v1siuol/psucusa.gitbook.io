@@ -138,7 +138,7 @@ Altoona 中文名为阿尔图纳，距离 State College 约 45 miles，驾驶时
 
 ## 彩弹射击
 
-### Eagle valley paintball
+**Eagle valley paintball**
 
 对于喜欢和想尝试彩蛋射击的同学来说 Eagle Valley Paintball 是最好的选择。该射击场是整个 State College 唯一的彩蛋射击场，距离 Psu Park校区车程30分钟左右。建议大家组队去玩并提前预约。
 

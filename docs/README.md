@@ -13,3 +13,11 @@
 **秘书长-Johnson Zhuang**
 
 **4月8日 State College**
+
+
+微信公众号：psucusa<br>
+官方主页：[https://www.psucusa.com/](https://www.psucusa.com/)<br>
+新浪微博：[http://weibo.com/psucusa ](http://weibo.com/psucusa )<br>
+Facebook: [http://facebook.com/cusa.pennstate ](http://facebook.com/cusa.pennstate)<br>
+官方Instagram: [psu_cusa ](https://www.instagram.com/psu_cusa/?hl=en)<br>
+官方邮箱：psu.cusa@gmail.com

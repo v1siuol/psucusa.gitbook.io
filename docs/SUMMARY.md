@@ -7,7 +7,7 @@
     * [暑期](about-cusa/activity-info/summer.md)
     * [秋季](about-cusa/activity-info/fall.md)
     * [春季](about-cusa/activity-info/spring.md)
-  * [招新&说明](about-cusa/recruitment-info/README.md)
+  * [招新 & 说明](about-cusa/recruitment-info/README.md)
     * [活动策划部（Event Planning）](about-cusa/recruitment-info/ep.md)
     * [市场宣传部（Marketing）](about-cusa/recruitment-info/mkt.md)
     * [公关部 （Pubulic Relationship）](about-cusa/recruitment-info/pr.md)

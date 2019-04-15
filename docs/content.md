@@ -10,31 +10,31 @@
 
   > [活动简介](about-cusa/activity-info/README.md)
   >
-  >  * [暑期](about-cusa/activity-info/summer.md)
+  >  1. [暑期](about-cusa/activity-info/summer.md)
   >
-  >  * [秋季](about-cusa/activity-info/fall.md)
+  >  2. [秋季](about-cusa/activity-info/fall.md)
   >
-  >  * [春季](about-cusa/activity-info/spring.md)
+  >  3. [春季](about-cusa/activity-info/spring.md)
 
   > [招新 & 说明](about-cusa/recruitment-info/README.md)
   >
-  >  * [活动策划部（Event Planning）](about-cusa/recruitment-info/ep.md)
+  >  1. [活动策划部（Event Planning）](about-cusa/recruitment-info/ep.md)
   >
-  >  * [市场宣传部（Marketing）](about-cusa/recruitment-info/mkt.md)
+  >  2. [市场宣传部（Marketing）](about-cusa/recruitment-info/mkt.md)
   >
-  >  * [公关部 （Pubulic Relationship）](about-cusa/recruitment-info/pr.md)
+  >  3. [公关部 （Pubulic Relationship）](about-cusa/recruitment-info/pr.md)
   >
-  >  * [信息管理部 （Information Technique）](about-cusa/recruitment-info/it.md)
+  >  4. [信息管理部 （Information Technique）](about-cusa/recruitment-info/it.md)
   >
-  >  * [资金管理部 （Treasure）](about-cusa/recruitment-info/tr.md)
+  >  5. [资金管理部 （Treasure）](about-cusa/recruitment-info/tr.md)
   >
-  >  * [外联部 （Fund Raising）](about-cusa/recruitment-info/fr.md)
+  >  6. [外联部 （Fund Raising）](about-cusa/recruitment-info/fr.md)
   >
-  >  * [人力资源部 （Human Resource）](about-cusa/recruitment-info/hr.md)
+  >  7. [人力资源部 （Human Resource）](about-cusa/recruitment-info/hr.md)
   >
-  >  * [媒体部（Media）](about-cusa/recruitment-info/media.md)
+  >  8. [媒体部（Media）](about-cusa/recruitment-info/media.md)
   >
-  >  * [校内事务部（UA）](about-cusa/recruitment-info/ua.md)
+  >  9. [校内事务部（UA）](about-cusa/recruitment-info/ua.md)
 
 {% endtab %}
 
@@ -46,11 +46,11 @@
 > [机场到校](before-coming.md/#ji-chang-dao-xiao)
 >
 > [宿舍预定](before-coming.md/#su-she-yu-ding)
-  >  * [临时住宿](before-coming.md/#lin-shi-zhu-su)
+  >  1. [临时住宿](before-coming.md/#lin-shi-zhu-su)
   >
-  >  * [正式住宿](before-coming.md/#zheng-shi-zhu-su)
+  >  2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
   >
-  >  * [补充一下](before-coming.md/#bu-chong-yi-xia)
+  >  3. [补充一下](before-coming.md/#bu-chong-yi-xia)
 {% endtab %}
 
 {% tab title="生活指南篇"%}
@@ -74,15 +74,15 @@
 >
 > [考试流程](daily-guide.md/#kao-shi-liu-cheng)
 >
-  >  * [关于笔试](daily-guide.md/#guan-yu-bi-shi)
+  >  1. [关于笔试](daily-guide.md/#guan-yu-bi-shi)
   >
-  >  * [路考小提示](daily-guide.md/#lu-kao-xiao-ti-shi)
+  >  2. [路考小提示](daily-guide.md/#lu-kao-xiao-ti-shi)
 
 > [购车攻略](daily-guide.md/#gou-che-gong-lve)
 
-  >  * [购车前要考虑的问题](daily-guide.md/#gou-che-qian-yao-kao-lv-de-wen-ti)
+  >  1. [购车前要考虑的问题](daily-guide.md/#gou-che-qian-yao-kao-lv-de-wen-ti)
 
-  >  * [几点建议](daily-guide.md/#ji-dian-jian-yi)
+  >  2. [几点建议](daily-guide.md/#ji-dian-jian-yi)
 
 > [SSN 取得方式](daily-guide.md/#ssn-qu-de-fang-shi)
 >

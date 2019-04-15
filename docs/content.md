@@ -51,6 +51,7 @@
   >  2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
   >
   >  3. [补充一下](before-coming.md/#bu-chong-yi-xia)
+
 {% endtab %}
 
 {% tab title="生活指南篇"%}

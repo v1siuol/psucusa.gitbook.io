@@ -76,6 +76,17 @@
 
 {% tab title="校内娱乐篇"%}
 [校内娱乐篇](on-campus-guide.md)
+
+> [1. 教材购买攻略], [2. 选课指南], [3. Rate My Professor]
+>
+> [4. 使用 Canvas], [5. 学校社团], [6. 分校转学指南]
+
+[1. 教材购买攻略]:(study-guide.md/#jiao-cai-gou-mai-gong-lve)
+[2. 选课指南]:(study-guide.md/#xuan-ke-zhi-nan)
+[3. Rate My Professor]:(study-guide.md/#rate-my-professor-wang-zhan-jie-shao)
+[4. 使用 Canvas]:(study-guide.md/#canvas-ji-lionpath-shi-yong-jiao-cheng)
+[5. 学校社团]:(study-guide.md/#xue-xiao-she-tuan-tui-jian)
+[6. 分校转学指南]:(study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
 {% endtab %}
 
 {% tab title="校外娱乐篇"%}

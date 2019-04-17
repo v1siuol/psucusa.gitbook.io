@@ -72,10 +72,6 @@
 {% tabs %}
 {% tab title="学术攻略篇"%}
 [学术攻略篇](study-guide.md)
-{% endtab %}
-
-{% tab title="校内娱乐篇"%}
-[校内娱乐篇](on-campus-guide.md)
 
 > [1. 教材购买攻略], [2. 选课指南], [3. Rate My Professor]
 >
@@ -87,6 +83,10 @@
 [4. 使用 Canvas]:(study-guide.md/#canvas-ji-lionpath-shi-yong-jiao-cheng)
 [5. 学校社团]:(study-guide.md/#xue-xiao-she-tuan-tui-jian)
 [6. 分校转学指南]:(study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
+{% endtab %}
+
+{% tab title="校内娱乐篇"%}
+[校内娱乐篇](on-campus-guide.md)
 {% endtab %}
 
 {% tab title="校外娱乐篇"%}

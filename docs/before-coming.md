@@ -13,7 +13,7 @@ iStart 信息概要
 
 4）在消息栏下方，左半边是你的Sevis信息，右半边是消息栏的选项
 
-5）最下面的几行是Directorate of International Student and Scholar Advising 的联系方式
+5）最下面的几行是 Directorate of International Student and Scholar Advising 的联系方式
 {% endhint %}
 
 ![](.gitbook/assets/i20-1.png)
@@ -62,9 +62,9 @@ iStart 信息概要
 {% endtab %}
 
 {% tab title="k.      " %}
-**Other Requests:** 一些特殊文件的申请， 比如：I-20的Travel Signature、release 你的个人档案给第三方、更换身份状态、离开学校（下学期将不就读）的表格等。
+**Other Requests:** 一些特殊文件的申请， 比如：I-20的 Travel Signature、release 你的个人档案给第三方、更换身份状态、离开学校（下学期将不就读）的表格等。
 
-\*备注：Travel Signature是I-20上面，由Global Office的工作人员给你签署的， 证明你今年的学生身份的凭证，签名的有效期是一年。 也就是说每年你都需要在回国之前申请新的 Travel Signature哦，免得在海关被关小黑屋ORZ
+\*备注：Travel Signature 是I-20上面，由 Global Office 的工作人员给你签署的， 证明你今年的学生身份的凭证，签名的有效期是一年。 也就是说每年你都需要在回国之前申请新的 Travel Signature哦，免得在海关被关小黑屋ORZ
 {% endtab %}
 {% endtabs %}
 

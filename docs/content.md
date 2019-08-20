@@ -69,16 +69,16 @@
 [11. SSN 取得方式]:(daily-guide.md/#ssn-qu-de-fang-shi)
 [12. 美国文化及法律法规普及]:(daily-guide.md/#mei-guo-wen-hua-ji-fa-lv-fa-gui-pu-ji)
 {% endtab %}
-{% endtabs %}
 
-
-{% tabs %}
 {% tab title="学术攻略篇"%}
 [学术攻略篇](study-guide.md)
 
-> [1. 教材购买攻略], [2. 选课指南], [3. Rate My Professor]
->
-> [4. 使用 Canvas], [5. 学校社团], [6. 分校转学指南]
+> [1. 教材购买攻略]<br>
+> [2. 选课指南]<br>
+> [3. Rate My Professor]<br>
+> [4. 使用 Canvas]<br>
+> [5. 学校社团]<br>
+> [6. 分校转学指南]
 
 [1. 教材购买攻略]:(study-guide.md/#jiao-cai-gou-mai-gong-lve)
 [2. 选课指南]:(study-guide.md/#xuan-ke-zhi-nan)

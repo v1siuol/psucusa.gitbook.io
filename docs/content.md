@@ -54,41 +54,41 @@
 {% tab title="学术攻略篇"%}
 [学术攻略篇](study-guide.md)
 
-1. [教材购买攻略]:(study-guide.md/#jiao-cai-gou-mai-gong-lve)
-2. [选课指南]:(study-guide.md/#xuan-ke-zhi-nan)
-3. [Rate My Professor]:(study-guide.md/#rate-my-professor-wang-zhan-jie-shao)
-4. [使用 Canvas]:(study-guide.md/#canvas-ji-lionpath-shi-yong-jiao-cheng)
-5. [学校社团]:(study-guide.md/#xue-xiao-she-tuan-tui-jian)
-6. [分校转学指南]:(study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
+1. [教材购买攻略](study-guide.md/#jiao-cai-gou-mai-gong-lve)
+2. [选课指南](study-guide.md/#xuan-ke-zhi-nan)
+3. [Rate My Professor](study-guide.md/#rate-my-professor-wang-zhan-jie-shao)
+4. [使用 Canvas](study-guide.md/#canvas-ji-lionpath-shi-yong-jiao-cheng)
+5. [学校社团](study-guide.md/#xue-xiao-she-tuan-tui-jian)
+6. [分校转学指南](study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
 {% endtab %}
 
 {% tab title="校内娱乐篇"%}
 [校内娱乐篇](on-campus-guide.md)
 
-1. [校内体育介绍及场馆分布]:(on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
-2. [学校冰淇淋]:(on-campus-guide.md/#xue-xiao-bing-qi-lin)
-3. [Icy Snow Karaoke]:(on-campus-guide.md/#Ice-Snow-Karaoke)
-4. [学校附近电影院]:(on-campus-guide.md/#xue-xiao-fu-jin-dian-ying-yuan)
-5. [校内桌球]:(on-campus-guide.md/#xiao-nei-zhuo-qiu)
-6. [商家分布]:(on-campus-guide.md/#shang-jia-fen-bu)
-7. [保龄球]:(on-campus-guide.md/#bao-ling-qiu)
-8. [滑冰场]:(on-campus-guide.md/#hua-bing-chang)
-9. [橄榄球赛季]:(on-campus-guide.md/#gan-lan-qiu-sai-ji)
-10. [学校例行活动]:(on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
+1. [校内体育介绍及场馆分布](on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
+2. [学校冰淇淋](on-campus-guide.md/#xue-xiao-bing-qi-lin)
+3. [Icy Snow Karaoke](on-campus-guide.md/#Ice-Snow-Karaoke)
+4. [学校附近电影院](on-campus-guide.md/#xue-xiao-fu-jin-dian-ying-yuan)
+5. [校内桌球](on-campus-guide.md/#xiao-nei-zhuo-qiu)
+6. [商家分布](on-campus-guide.md/#shang-jia-fen-bu)
+7. [保龄球](on-campus-guide.md/#bao-ling-qiu)
+8. [滑冰场](on-campus-guide.md/#hua-bing-chang)
+9. [橄榄球赛季](on-campus-guide.md/#gan-lan-qiu-sai-ji)
+10. [学校例行活动](on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
 {% endtab %}
 
 {% tab title="校外娱乐篇"%}
 [校外娱乐篇](off-campus-guide.md)
 
-1. [University Park 周边]:(off-campus-guide.md/#University-Park-zhou-bian)
-2. [其他旅游城市]:(off-campus-guide.md/#qi-ta-lv-you-cheng-shi)
-3. [Altoona & 娱乐]:(off-campus-guide.md/#Altoona-&-yu-le)
-4. [游乐场]:(off-campus-guide.md/#you-le-chang)
-5. [彩弹射击]:(off-campus-guide.md/#cai-dan-she-ji)
-6. [滑雪]:(off-campus-guide.md/#hua-xue)
-7. [跳伞]:(off-campus-guide.md/#tiao-san)
-8. [NBA]:(off-campus-guide.md/#NBA)
-9. [看星星]:(off-campus-guide.md/#kan-xing-xing)
+1. [University Park 周边](off-campus-guide.md/#University-Park-zhou-bian)
+2. [其他旅游城市](off-campus-guide.md/#qi-ta-lv-you-cheng-shi)
+3. [Altoona & 娱乐](off-campus-guide.md/#Altoona-and-yu-le)
+4. [游乐场](off-campus-guide.md/#you-le-chang)
+5. [彩弹射击](off-campus-guide.md/#cai-dan-she-ji)
+6. [滑雪](off-campus-guide.md/#hua-xue)
+7. [跳伞](off-campus-guide.md/#tiao-san)
+8. [NBA](off-campus-guide.md/#NBA)
+9. [看星星](off-campus-guide.md/#kan-xing-xing)
 {% endtab %}
 
 {% tab title="结尾篇"%}

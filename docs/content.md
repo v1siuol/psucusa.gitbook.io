@@ -35,9 +35,9 @@
 > [1. i20 & iStart](before-coming.md/#i20-and-istart)<br>
 > [2. 机场到校](before-coming.md/#ji-chang-dao-xiao)<br>
 > [3. 宿舍预定](before-coming.md/#su-she-yu-ding)
->> [a. 临时住宿](before-coming.md/#lin-shi-zhu-su)<br>
->> [b. 正式住宿](before-coming.md/#zheng-shi-zhu-su)<br>
->> [c. 补充一下](before-coming.md/#bu-chong-yi-xia)
+  > [a. 临时住宿](before-coming.md/#lin-shi-zhu-su)<br>
+  > [b. 正式住宿](before-coming.md/#zheng-shi-zhu-su)<br>
+  > [c. 补充一下](before-coming.md/#bu-chong-yi-xia)
 
 {% endtab %}
 

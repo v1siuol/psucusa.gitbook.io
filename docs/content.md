@@ -43,7 +43,7 @@
 {% tab title="生活指南篇"%}
 [生活指南篇](daily-guide.md)
 
-> [1. 险购买指南]<br>
+> [1. 保险购买指南]<br>
 > [2. 学校地图概况]<br>
 > [3. 校内外公交系统]<br>
 > [4. 超市及生活用品]<br>
@@ -56,7 +56,7 @@
 > [11. SSN 取得方式]<br>
 > [12. 美国文化及法律法规普及]
 
-[1. 险购买指南]:(daily-guide.md/#bao-xian-gou-mai-zhi-nan)
+[1. 保险购买指南]:(daily-guide.md/#bao-xian-gou-mai-zhi-nan)
 [2. 学校地图概况]:(daily-guide.md/#xue-xiao-di-tu-gai-kuang)
 [3. 校内外公交系统]:(daily-guide.md/#xiao-nei-wai-gong-jiao-xi-tong)
 [4. 超市及生活用品]:(daily-guide.md/#chao-shi-ji-sheng-huo-yong-pin)
@@ -90,6 +90,29 @@
 
 {% tab title="校内娱乐篇"%}
 [校内娱乐篇](on-campus-guide.md)
+
+> [1. 校内体育介绍及场馆分布]<br>
+> [2. 学校冰淇淋]<br>
+> [3. Icy Snow Karaoke]<br>
+> [4. 学校附近电影院]<br>
+> [5. 校内桌球]<br>
+> [6. 商家分布]<br>
+> [7. 保龄球]<br>
+> [8. 滑冰场]<br>
+> [9. 橄榄球赛季]<br>
+> [10. 学校例行活动]<br>
+
+[1. 校内体育介绍及场馆分布]:(on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
+[2. 学校冰淇淋]:(on-campus-guide.md/#xue-xiao-bing-qi-lin)
+[3. Icy Snow Karaoke]:(on-campus-guide.md/#Ice-Snow-Karaoke)
+[4. 学校附近电影院]:(on-campus-guide.md/#xue-xiao-fu-jin-dian-ying-yuan)
+[5. 校内桌球]:(on-campus-guide.md/#xiao-nei-zhuo-qiu)
+[6. 商家分布]:(on-campus-guide.md/#shang-jia-fen-bu)
+[7. 保龄球]:(on-campus-guide.md/#bao-ling-qiu)
+[8. 滑冰场]:(on-campus-guide.md/#hua-bing-chang)
+[9. 橄榄球赛季]:(on-campus-guide.md/#gan-lan-qiu-sai-ji)
+[10. 学校例行活动]:(on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
+
 {% endtab %}
 
 {% tab title="校外娱乐篇"%}

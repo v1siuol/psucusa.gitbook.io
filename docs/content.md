@@ -8,29 +8,22 @@
 {% tab title="关于CUSA"%}
 [关于CUSA](about-cusa/README.md)
 
-  > [活动简介]<br>
-  >  1. [暑期]<br>
-  >  2. [秋季]<br>
-  >  3. [春季]
-
-  > [招新 & 说明]
-
-[活动简介]:(about-cusa/activity-info/README.md)
+1. [活动简介]:(about-cusa/activity-info/README.md)
   [暑期]:(about-cusa/activity-info/summer.md)
   [秋季]:(about-cusa/activity-info/fall.md)
   [春季]:(about-cusa/activity-info/spring.md)
-[招新 & 说明]:(about-cusa/recruitment-info/README.md)
+2. [招新 & 说明]:(about-cusa/recruitment-info/README.md)
 {% endtab %}
 
 {% tab title="临行准备篇"%}
 [临行准备篇](before-coming.md)
 
-1. [i20 & iStart](before-coming.md/#i20-and-istart)<br>
-2. [机场到校](before-coming.md/#ji-chang-dao-xiao)<br>
-3. [宿舍预定](before-coming.md/#su-she-yu-ding)<br>
-  a. [临时住宿](before-coming.md/#lin-shi-zhu-su)<br>
-  b. [正式住宿](before-coming.md/#zheng-shi-zhu-su)<br>
-  c. [补充一下](before-coming.md/#bu-chong-yi-xia)
+1. [i20 & iStart](before-coming.md/#i20-and-istart)
+2. [机场到校](before-coming.md/#ji-chang-dao-xiao)
+3. [宿舍预定](before-coming.md/#su-she-yu-ding)
+  1. [临时住宿](before-coming.md/#lin-shi-zhu-su)
+  2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
+  3. [补充一下](before-coming.md/#bu-chong-yi-xia)
 
 {% endtab %}
 

@@ -21,9 +21,9 @@
 1. [i20 & iStart](before-coming.md/#i20-and-istart)
 2. [机场到校](before-coming.md/#ji-chang-dao-xiao)
 3. [宿舍预定](before-coming.md/#su-she-yu-ding)
-  1. [临时住宿](before-coming.md/#lin-shi-zhu-su)
-  2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
-  3. [补充一下](before-coming.md/#bu-chong-yi-xia)
+  [临时住宿](before-coming.md/#lin-shi-zhu-su)
+  [正式住宿](before-coming.md/#zheng-shi-zhu-su)
+  [补充一下](before-coming.md/#bu-chong-yi-xia)
 
 {% endtab %}
 

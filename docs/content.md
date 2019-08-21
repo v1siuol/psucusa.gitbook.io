@@ -1,5 +1,5 @@
 # Table of contents
-## [手册前言](README.md)
+### [手册前言](README.md)
 
 
 [**关于CUSA**](about-cusa/README.md)

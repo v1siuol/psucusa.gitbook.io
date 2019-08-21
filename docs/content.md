@@ -1,8 +1,8 @@
 # Table of contents
-### [手册前言](README.md)
+## [手册前言](README.md)
 
 
-[**关于CUSA**](about-cusa/README.md)
+## [关于CUSA](about-cusa/README.md)
 
 1. [活动简介](about-cusa/activity-info/README.md)
   1. [暑期](about-cusa/activity-info/summer.md)
@@ -11,7 +11,7 @@
 2. [招新 & 说明](about-cusa/recruitment-info/README.md)
 
 
-[**临行准备篇**](before-coming.md)
+## [临行准备篇](before-coming.md)
 
 1. [i20 & iStart](before-coming.md/#i20-and-istart)
 2. [机场到校](before-coming.md/#ji-chang-dao-xiao)
@@ -21,7 +21,7 @@
   3. [补充一下](before-coming.md/#bu-chong-yi-xia)
 
 
-[**生活指南篇**](daily-guide.md)
+## [生活指南篇](daily-guide.md)
 
 1. [保险购买指南](daily-guide.md/#bao-xian-gou-mai-zhi-nan)
 2. [学校地图概况](daily-guide.md/#xue-xiao-di-tu-gai-kuang)
@@ -37,7 +37,7 @@
 12. [美国文化及法律法规普及](daily-guide.md/#mei-guo-wen-hua-ji-fa-lv-fa-gui-pu-ji)
 
 
-[**学术攻略篇**](study-guide.md)
+## [学术攻略篇](study-guide.md)
 
 1. [教材购买攻略](study-guide.md/#jiao-cai-gou-mai-gong-lve)
 2. [选课指南](study-guide.md/#xuan-ke-zhi-nan)
@@ -47,7 +47,7 @@
 6. [分校转学指南](study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
 
 
-[**校内娱乐篇**](on-campus-guide.md)
+## [校内娱乐篇](on-campus-guide.md)
 
 1. [校内体育介绍及场馆分布](on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
 2. [学校冰淇淋](on-campus-guide.md/#xue-xiao-bing-qi-lin)
@@ -61,7 +61,7 @@
 10. [学校例行活动](on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
 
 
-[**校外娱乐篇**](off-campus-guide.md)
+## [校外娱乐篇](off-campus-guide.md)
 
 1. [University Park 周边](off-campus-guide.md/#University-Park-zhou-bian)
 2. [其他旅游城市](off-campus-guide.md/#qi-ta-lv-you-cheng-shi)
@@ -74,7 +74,7 @@
 9. [看星星](off-campus-guide.md/#kan-xing-xing)
 
 
-[**结尾篇**](final.md)
+## [结尾篇](final.md)
 
 1. [学长学姐寄语](final.md/#xue-zhang-xue-jie-ji-yu)
 2. [CUSA历届温情合照](final.md/#CUSA-li-jie-wen-qing-he-zhao)

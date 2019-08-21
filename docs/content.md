@@ -100,7 +100,7 @@
 > [7. 保龄球]<br>
 > [8. 滑冰场]<br>
 > [9. 橄榄球赛季]<br>
-> [10. 学校例行活动]<br>
+> [10. 学校例行活动]
 
 [1. 校内体育介绍及场馆分布]:(on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
 [2. 学校冰淇淋]:(on-campus-guide.md/#xue-xiao-bing-qi-lin)
@@ -112,11 +112,30 @@
 [8. 滑冰场]:(on-campus-guide.md/#hua-bing-chang)
 [9. 橄榄球赛季]:(on-campus-guide.md/#gan-lan-qiu-sai-ji)
 [10. 学校例行活动]:(on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
-
 {% endtab %}
 
 {% tab title="校外娱乐篇"%}
 [校外娱乐篇](off-campus-guide.md)
+
+> [1. University Park 周边]<br>
+> [2. 其他旅游城市]<br>
+> [3. Altoona & 娱乐]<br>
+> [4. 游乐场]<br>
+> [5. 彩弹射击]<br>
+> [6. 滑雪]<br>
+> [7. 跳伞]<br>
+> [8. NBA]<br>
+> [9. 看星星]
+
+[1. University Park 周边]:(off-campus-guide.md/#University-Park-zhou-bian)
+[2. 其他旅游城市]:(off-campus-guide.md/#qi-ta-lv-you-cheng-shi)
+[3. Altoona & 娱乐]:(off-campus-guide.md/#Altoona-&-yu-le)
+[4. 游乐场]:(off-campus-guide.md/#you-le-chang)
+[5. 彩弹射击]:(off-campus-guide.md/#cai-dan-she-ji)
+[6. 滑雪]:(off-campus-guide.md/#hua-xue)
+[7. 跳伞]:(off-campus-guide.md/#tiao-san)
+[8. NBA]:(off-campus-guide.md/#NBA)
+[9. 看星星]:(off-campus-guide.md/#kan-xing-xing)
 {% endtab %}
 
 {% tab title="结尾篇"%}

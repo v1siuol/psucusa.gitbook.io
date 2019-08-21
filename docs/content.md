@@ -8,11 +8,11 @@
 {% tab title="关于CUSA"%}
 [关于CUSA](about-cusa/README.md)
 
-1. [活动简介]:(about-cusa/activity-info/README.md)
-  [暑期]:(about-cusa/activity-info/summer.md)
-  [秋季]:(about-cusa/activity-info/fall.md)
-  [春季]:(about-cusa/activity-info/spring.md)
-2. [招新 & 说明]:(about-cusa/recruitment-info/README.md)
+1. [活动简介](about-cusa/activity-info/README.md)
+  [暑期](about-cusa/activity-info/summer.md)
+  [秋季](about-cusa/activity-info/fall.md)
+  [春季](about-cusa/activity-info/spring.md)
+2. [招新 & 说明](about-cusa/recruitment-info/README.md)
 {% endtab %}
 
 {% tab title="临行准备篇"%}

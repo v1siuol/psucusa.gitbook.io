@@ -32,7 +32,7 @@
   >  2. [正式住宿]<br>
   >  3. [补充一下]
 
-[i20 & iStart]:(before-coming.md/#i20-and-istart)
+[i20 & iStart](before-coming.md/#i20-and-istart)
 [机场到校]:(before-coming.md/#ji-chang-dao-xiao)
 [宿舍预定]:(before-coming.md/#su-she-yu-ding)
   [临时住宿]:(before-coming.md/#lin-shi-zhu-su)

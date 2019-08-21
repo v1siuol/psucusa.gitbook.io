@@ -1,11 +1,7 @@
 # Table of contents
-
-{% tabs %}
-{% tab title="手册前言"%}
 [手册前言](README.md)
-{% endtab %}
 
-{% tab title="关于CUSA"%}
+
 [关于CUSA](about-cusa/README.md)
 
 1. [活动简介](about-cusa/activity-info/README.md)
@@ -13,9 +9,8 @@
   2. [秋季](about-cusa/activity-info/fall.md)
   3. [春季](about-cusa/activity-info/spring.md)
 2. [招新 & 说明](about-cusa/recruitment-info/README.md)
-{% endtab %}
 
-{% tab title="临行准备篇"%}
+
 [临行准备篇](before-coming.md)
 
 1. [i20 & iStart](before-coming.md/#i20-and-istart)
@@ -25,9 +20,7 @@
   2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
   3. [补充一下](before-coming.md/#bu-chong-yi-xia)
 
-{% endtab %}
 
-{% tab title="生活指南篇"%}
 [生活指南篇](daily-guide.md)
 
 1. [保险购买指南](daily-guide.md/#bao-xian-gou-mai-zhi-nan)
@@ -42,9 +35,8 @@
 10. [购车攻略](daily-guide.md/#gou-che-gong-lve)
 11. [SSN 取得方式](daily-guide.md/#ssn-qu-de-fang-shi)
 12. [美国文化及法律法规普及](daily-guide.md/#mei-guo-wen-hua-ji-fa-lv-fa-gui-pu-ji)
-{% endtab %}
 
-{% tab title="学术攻略篇"%}
+
 [学术攻略篇](study-guide.md)
 
 1. [教材购买攻略](study-guide.md/#jiao-cai-gou-mai-gong-lve)
@@ -53,9 +45,8 @@
 4. [使用 Canvas](study-guide.md/#canvas-ji-lionpath-shi-yong-jiao-cheng)
 5. [学校社团](study-guide.md/#xue-xiao-she-tuan-tui-jian)
 6. [分校转学指南](study-guide.md/#fen-xiao-zhuan-xue-zhi-nan)
-{% endtab %}
 
-{% tab title="校内娱乐篇"%}
+
 [校内娱乐篇](on-campus-guide.md)
 
 1. [校内体育介绍及场馆分布](on-campus-guide.md/#xiao-nei-ti-yu-jie-shao-ji-chang-guan-fen-bu)
@@ -68,9 +59,8 @@
 8. [滑冰场](on-campus-guide.md/#hua-bing-chang)
 9. [橄榄球赛季](on-campus-guide.md/#gan-lan-qiu-sai-ji)
 10. [学校例行活动](on-campus-guide.md/#xue-xiao-li-xing-huo-dong)
-{% endtab %}
 
-{% tab title="校外娱乐篇"%}
+
 [校外娱乐篇](off-campus-guide.md)
 
 1. [University Park 周边](off-campus-guide.md/#University-Park-zhou-bian)
@@ -82,14 +72,11 @@
 7. [跳伞](off-campus-guide.md/#tiao-san)
 8. [NBA](off-campus-guide.md/#NBA)
 9. [看星星](off-campus-guide.md/#kan-xing-xing)
-{% endtab %}
 
-{% tab title="结尾篇"%}
+
 [结尾篇](final.md)
 
 1. [学长学姐寄语](final.md/#xue-zhang-xue-jie-ji-yu)
 2. [CUSA历届温情合照](final.md/#CUSA-li-jie-wen-qing-he-zhao)
 3. [致新生](final.md/#zhi-xin-sheng)
 4. [CUSA联系方式](final.md/#CUSA-lian-xi-fang-shi)
-{% endtab %}
-{% endtabs %}

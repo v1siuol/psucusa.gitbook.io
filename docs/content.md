@@ -9,9 +9,9 @@
 [关于CUSA](about-cusa/README.md)
 
 1. [活动简介](about-cusa/activity-info/README.md)
-  [暑期](about-cusa/activity-info/summer.md)
-  [秋季](about-cusa/activity-info/fall.md)
-  [春季](about-cusa/activity-info/spring.md)
+  1. [暑期](about-cusa/activity-info/summer.md)
+  2. [秋季](about-cusa/activity-info/fall.md)
+  3. [春季](about-cusa/activity-info/spring.md)
 2. [招新 & 说明](about-cusa/recruitment-info/README.md)
 {% endtab %}
 
@@ -21,9 +21,9 @@
 1. [i20 & iStart](before-coming.md/#i20-and-istart)
 2. [机场到校](before-coming.md/#ji-chang-dao-xiao)
 3. [宿舍预定](before-coming.md/#su-she-yu-ding)
-  [临时住宿](before-coming.md/#lin-shi-zhu-su)
-  [正式住宿](before-coming.md/#zheng-shi-zhu-su)
-  [补充一下](before-coming.md/#bu-chong-yi-xia)
+  1. [临时住宿](before-coming.md/#lin-shi-zhu-su)
+  2. [正式住宿](before-coming.md/#zheng-shi-zhu-su)
+  3. [补充一下](before-coming.md/#bu-chong-yi-xia)
 
 {% endtab %}
 

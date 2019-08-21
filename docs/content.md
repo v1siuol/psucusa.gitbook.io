@@ -86,5 +86,10 @@
 
 {% tab title="结尾篇"%}
 [结尾篇](final.md)
+
+1. [学长学姐寄语](final.md/#xue-zhang-xue-jie-ji-yu)
+2. [CUSA历届温情合照](final.md/#CUSA-li-jie-wen-qing-he-zhao)
+3. [致新生](final.md/#zhi-xin-sheng)
+4. [CUSA联系方式](final.md/#CUSA-lian-xi-fang-shi)
 {% endtab %}
 {% endtabs %}
